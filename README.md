@@ -11,9 +11,12 @@ There are many gui options for git (https://www.sourcetreeapp.com, https://www.g
 3. Ensure that you checkout and are working on this new branch you just made
 4. Whenever you finish a chunk of your work on your branch: commit (with a description of what you did), and push (update cloud)
 5. When you are done with your work you will need to create a pull request, the best way to do this is to:
-  1. go on github repo
-  2. click on branch
-  3. click on new pull request
-  4. confirm that you are creating the request and I will check your work and add it to master branch
+    - go on github repo
+    - click on branch
+    - click on new pull request
+    - confirm that you are creating the request and I will check your work and add it to master branch
 6. Checkout master branch
 7. Repeat
+
+## Issues
+There is an issues tab for github this is where all of the tasks for the project are. @mccjul will assign you tasks for each milestone (sprint). When you finish your task @mccjul will close the issue. This will help keep track of the velocity of the sprint.
