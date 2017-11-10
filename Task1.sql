@@ -96,7 +96,7 @@ go
 -- Create Member table
 create table Member.Member
 (
-	MemberID smallInt identity(1,1) not null primary key,
+	MemberID smallInt identity(1,1) not null,
 	LastName varchar(20) not null,
 FirstName varchar(20) not null,
 	MiddleInitial varchar(1) not null,
