@@ -96,15 +96,10 @@ go
 
 -- Betweem the Activity.Loan and Item.Copy tables
 alter table Activity.Loan
-	add constraint fk_LoanCopy foreign key (CopyNo) references Item.Copy(CopyNo)
+	add constraint fk_LoanCopy foreign key (ISBN, CopyNo) references Item.Copy(ISBN, CopyNo)
 ;
 go
 
--- Betweem the Activity.Loan and Item.Item tables
-alter table Activity.Loan
-	add constraint fk_LoanItem foreign key (ISBN) references Item.Item(ISBN)
-;
-go
 
 -- Betweem the Activity.Loan and Member.Member tables
 alter table Activity.Loan
