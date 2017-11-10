@@ -52,8 +52,8 @@ go
 
 -- Between the Item.Copy and Item.Item tables
 alter table Item.Copy
-	add constraint fk_CopyItem foreign key clustered (ISBN CopyNo)
-references Item.Item(ISBN CopyNo)
+	add constraint fk_CopyItem foreign key(ISBN, CopyNo)
+references Item.Item(ISBN, CopyNo)
 ;
 go
 
