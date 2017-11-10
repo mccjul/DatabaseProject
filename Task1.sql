@@ -59,7 +59,7 @@ go
 
 -- Create Item table
 create table Item.Item (
-	ISBN varchar(13) not null primary key,
+	ISBN varchar(13) not null,
 	TitleID int not null,
 	Translation varchar(20) not null,
 	Cover char(1) not null,
@@ -72,7 +72,7 @@ go
 
 -- Create Title table
 create table Item.Title (
-	TitleID int identity (1,1) not null primary key,
+	TitleID int identity (1,1) not null,
 	Title varchar(100) not null,
 	AuthorFirstName varchar(20) not null,
 	AuthorLastName varchar(20) not null,
