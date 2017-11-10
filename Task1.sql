@@ -65,7 +65,7 @@ create table Item.Item (
 	Cover char(1) not null,
 	Loanable Boolean not null,
 	constraint pk_Item primary key clustered(ISBN asc),
-	constraint fk_ItemTitle foreign key(TitleID asc)
+	constraint fk_ItemTitle foreign key(TitleID)
 )
 ;
 go
