@@ -41,6 +41,10 @@ log on
 go
 
 
+use WestMunicipalLibrary
+;
+go
+
 
 /**** SCHEMA CREATION ****/
 create schema Item authorization dbo
@@ -57,22 +61,9 @@ go
 /* Task 1 - II. Create tables in the Library Database */
 /**** TABLE CREATION ****/
 
--- Create Item table
-create table Item.Item (
-	ISBN varchar(13) not null primary key,
-	TitleID int not null,
-	Translation varchar(20) not null,
-	Cover char(1) not null,
-	Loanable Boolean not null,
-	constraint pk_Item primary key clustered(ISBN asc),
-	constraint fk_ItemTitle foreign key(TitleID asc)
-)
-;
-go
-
 -- Create Title table
 create table Item.Title (
-	TitleID int identity (1,1) not null primary key,
+	TitleID int identity (1,1) not null,
 	Title varchar(100) not null,
 	AuthorFirstName varchar(20) not null,
 	AuthorLastName varchar(20) not null,
@@ -82,10 +73,24 @@ create table Item.Title (
 ;
 go
 
+-- Create Item table
+create table Item.Item (
+	ISBN varchar(13) not null,
+	TitleID int not null,
+	Translation varchar(20) not null,
+	Cover char(1) not null,
+	Loanable Boolean not null,
+	constraint pk_Item primary key clustered(ISBN asc),
+	constraint fk_ItemTitle foreign key(TitleID) references Item.Title(TitleID)
+)
+;
+go
+
+
 -- Create Copy table
 create table Item.Copy
 (
-	ISBN varchar(13) not null primary key,
+	ISBN varchar(13) not null,
 	CopyNo  int not null,
 	IsLoaned  boolean not null,
 )
@@ -95,11 +100,11 @@ go
 -- Create Member table
 create table Member.Member
 (
-	MemberID smallInt identity(1,1) not null primary key,
+	MemberID int identity(1,1) not null,
 	LastName varchar(20) not null,
-FirstName varchar(20) not null,
+	FirstName varchar(20) not null,
 	MiddleInitial varchar(1) not null,
-            Photograph Image not null,
+    Photograph Image not null,
 )
 ;
 Go
