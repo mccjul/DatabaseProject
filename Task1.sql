@@ -86,7 +86,7 @@ go
 -- Create Copy table
 create table Item.Copy
 (
-	ISBN varchar(13) not null primary key,
+	ISBN varchar(13) not null,
 	CopyNo  int not null,
 	IsLoaned  boolean not null,
 )
