@@ -41,6 +41,10 @@ log on
 go
 
 
+use WestMunicipalLibrary
+;
+go
+
 
 /**** SCHEMA CREATION ****/
 create schema Item authorization dbo

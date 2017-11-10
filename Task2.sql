@@ -3,6 +3,12 @@
 I. Define and use Default and Check constraints to enforce domain integrity 
 II. Define and use PRIMARY KEY and FOREIGN KEY constraint to enforce entity and referential integrity
 */
+
+
+use WestMunicipalLibrary
+;
+go
+
 /**** PRIMARY KEY CONSTRAINTS ****/
 /**** ITEM AND TITLE PRIMARY CONSTRAINTS DONE IN TABLE CREATION ****/
 
