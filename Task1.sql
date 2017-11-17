@@ -3,12 +3,10 @@
 	Script Date: November 05, 2017
 	Developed by: Julian Mccarthy, Dany Lyth, Eric Berrier, Karely Lu 
 */
-
 -- Switch to the master database
 use master
 ;
 go
-
 /**** DATABASE CREATION ****/
 create database WestMunicipalLibrary
 on primary
@@ -39,13 +37,9 @@ log on
 )
 ;
 go
-
-
 use WestMunicipalLibrary
 ;
 go
-
-
 /**** SCHEMA CREATION ****/
 create schema Item authorization dbo
 ;  
@@ -55,14 +49,12 @@ create schema Member authorization dbo
 go
 create schema Activity authorization dbo
 ; 
-go 
-
-
+go
 /* Task 1 - II. Create tables in the Library Database */
 /**** TABLE CREATION ****/
-
 -- Create Title table
-create table Item.Title (
+create table Item.Title
+(
 	TitleID int identity (1,1) not null,
 	Title varchar(100) not null,
 	AuthorFirstName varchar(20) not null,
@@ -72,9 +64,9 @@ create table Item.Title (
 )
 ;
 go
-
 -- Create Item table
-create table Item.Item (
+create table Item.Item
+(
 	ISBN varchar(13) not null,
 	TitleID int not null,
 	Translation varchar(20) not null,
@@ -85,18 +77,15 @@ create table Item.Item (
 )
 ;
 go
-
-
 -- Create Copy table
 create table Item.Copy
 (
 	ISBN varchar(13) not null,
-	CopyNo  int not null,
-	IsLoaned  boolean not null,
+	CopyNo int not null,
+	IsLoaned boolean not null,
 )
 ;
 go
-
 -- Create Member table
 create table Member.Member
 (
@@ -104,11 +93,10 @@ create table Member.Member
 	LastName varchar(20) not null,
 	FirstName varchar(20) not null,
 	MiddleInitial varchar(1) not null,
-    Photograph Image not null,
+	Photograph varbinary(MAX) not null,
 )
 ;
 Go
-
 -- Create Adult table
 create table Member.Adult
 (
@@ -123,12 +111,11 @@ create table Member.Adult
 )
 ;
 Go
-
 -- Create Juvenile table
 create table Member.Juvenile
 (
 	MemberID int unique not null,
-AdultMemberID int not null,
+	AdultMemberID int not null,
 	BirthDate Date not null
 )
 ;
@@ -143,7 +130,6 @@ create table Activity.Reservation
 )
 ;
 go
-
 -- Create Loan table
 create table Activity.Loan
 (
