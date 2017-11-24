@@ -1,9 +1,16 @@
 /**** TO FINISH ON LATER DATE ****/
 
+
+use WestMunicipalLibrary
+;
+go
+
 /*1. Create a mailing list of Library members that includes the members’ full names and complete address information.*/
 SELECT * 
-FROM Member.Adult , Member.Member,
+FROM Member.Adult , Member.Member
 ORDER BY Member.MemberID ASC
+;
+go
 
 /*2. Write and execute a query on the title, item, and copy tables that returns the isbn, copy_no, on_loan, title, translation, and cover, and values for rows in the copy table with an ISBN of 1 (one), 500 (five hundred), or 1000 (thousand). Order the result by isbn column.*/
 /* From access
