@@ -1,1001 +1,1001 @@
 ISBN,TitleID,Translation,Cover,Loanable
-879368921-7,1,Azeri, h,false
-790016437-5,2,Persian, h,true
-066524669-2,3,Estonian, h,true
-364987835-6,4,Dhivehi, h,false
-332520271-3,5,Chinese,s ,true
-260478202-2,6,Gagauz, h,false
-357817930-2,7,German,s ,false
-582684799-9,8,Romanian,s ,false
-582456276-8,9,Tswana, h,true
-381201741-5,10,Irish Gaelic, h,true
-845623893-7,11,Dutch, h,true
-808060227-1,12,Telugu,s ,false
-502535591-5,13,Norwegian, h,false
-739525572-0,14,Amharic, h,true
-164384663-9,15,Hiri Motu,s ,true
-781643488-X,16,Lithuanian, h,true
-007231000-6,17,Quechua,s ,true
-459570713-4,18,Filipino,s ,false
-512261037-1,19,Malay, h,true
-790899831-3,20,Tswana,s ,true
-431112867-3,21,Azeri,s ,false
-375402500-7,22,Malagasy,s ,false
-578145865-4,23,Icelandic,s ,true
-299430563-1,24,Northern Sotho,s ,true
-445392525-5,25,Kazakh, h,false
-869826682-7,26,Malayalam,s ,false
-178872967-6,27,Polish, h,false
-699562360-6,28,Malagasy,s ,true
-990755551-7,29,Dari, h,false
-110879424-6,30,Dari,s ,false
-690139555-8,31,Hebrew, h,false
-682733539-9,32,Albanian,s ,false
-954157779-2,33,Bosnian,s ,true
-899791494-4,34,Swati,s ,false
-514263048-3,35,Bislama,s ,true
-092438831-5,36,Kurdish, h,true
-764657566-6,37,Kannada, h,true
-068377638-X,38,Burmese, h,true
-040717335-8,39,Malagasy,s ,true
-862507977-6,40,Macedonian, h,true
-757102745-4,41,Malayalam,s ,true
-684285525-X,42,Catalan,s ,false
-228574614-8,43,Italian, h,false
-216191054-X,44,Lao,s ,true
-037189629-0,45,Mongolian,s ,true
-347380296-4,46,Tajik, h,false
-646966799-6,47,Latvian, h,true
-272943672-3,48,Guaraní, h,false
-716776342-X,49,Spanish, h,true
-916102546-1,50,Ndebele,s ,false
-212772020-2,51,Montenegrin, h,true
-464814419-8,52,Gagauz, h,true
-160501557-1,53,Hiri Motu,s ,false
-853399626-8,54,Tsonga, h,false
-455631415-1,55,Danish, h,true
-599028319-9,56,Croatian,s ,false
-087313708-6,57,Quechua,s ,false
-080962259-9,58,Latvian, h,true
-578517046-9,59,Kazakh, h,false
-995142570-4,60,Maltese,s ,true
-154043192-4,61,Khmer, h,true
-413612032-X,62,Oriya, h,false
-000798934-2,63,Montenegrin, h,false
-407165322-1,64,Dari,s ,false
-343638887-4,65,Indonesian,s ,true
-177970598-0,66,Northern Sotho, h,true
-408886121-3,67,Kannada, h,true
-417955969-2,68,Pashto,s ,false
-151147383-5,69,Somali, h,false
-403668351-9,70,Korean,s ,true
-007724014-6,71,Korean, h,true
-800674720-2,72,Malayalam, h,false
-268134068-3,73,Telugu, h,true
-960998589-0,74,Nepali,s ,true
-100961548-3,75,Malay, h,false
-773889943-3,76,Nepali, h,false
-426841543-2,77,Romanian, h,true
-522395670-2,78,Swahili, h,false
-197071943-5,79,Aymara,s ,true
-338677699-X,80,Norwegian,s ,true
-764219489-7,81,Moldovan,s ,false
-438553802-6,82,New Zealand Sign Language, h,true
-090699929-4,83,Swahili, h,false
-943197964-0,84,Danish, h,false
-565254895-9,85,Khmer,s ,false
-802581682-6,86,Kurdish,s ,true
-814185148-9,87,Fijian, h,true
-894990212-5,88,Tok Pisin,s ,true
-423860428-8,89,Bengali, h,true
-933351211-X,90,Bislama,s ,false
-357515716-2,91,Belarusian, h,false
-762390526-0,92,Thai, h,true
-190187479-6,93,Hiri Motu,s ,true
-501423410-0,94,Hungarian, h,true
-335498156-3,95,Hungarian,s ,false
-867486452-X,96,Oriya,s ,false
-363415975-8,97,French, h,false
-833193238-2,98,Sotho,s ,false
-841540365-8,99,Korean,s ,false
-386673297-X,100,Bislama,s ,true
-964708857-4,101,Tamil, h,true
-107192948-8,102,Greek,s ,false
-285699975-1,103,Polish,s ,false
-453478568-2,104,Guaraní, h,false
-224474672-0,105,Bislama,s ,true
-435005067-1,106,Estonian,s ,false
-251026263-7,107,Amharic,s ,true
-106920544-3,108,Latvian,s ,true
-102226456-7,109,Amharic, h,false
-211390440-3,110,Aymara,s ,false
-400195393-5,111,Guaraní,s ,false
-580668164-5,112,Aymara,s ,true
-931302529-9,113,Kazakh,s ,true
-373283725-4,114,Swahili,s ,false
-410998305-3,115,Belarusian,s ,false
-824407154-0,116,Persian, h,true
-558329857-X,117,Northern Sotho,s ,true
-632010375-2,118,Kashmiri, h,false
-115650995-5,119,Hindi,s ,false
-244219305-1,120,Malay, h,false
-760091383-6,121,Dari,s ,true
-548200693-X,122,Northern Sotho, h,false
-622578594-9,123,West Frisian,s ,false
-962716070-9,124,Fijian, h,false
-787474399-7,125,Malagasy,s ,false
-548467293-7,126,Thai, h,true
-230884165-6,127,Japanese, h,false
-519833540-1,128,Finnish,s ,false
-372715801-8,129,English, h,false
-284790767-X,130,Croatian, h,true
-611944149-2,131,Assamese, h,true
-719992205-1,132,Catalan,s ,true
-528191329-8,133,Filipino,s ,true
-059071692-1,134,Moldovan,s ,false
-489213256-X,135,Malagasy, h,false
-076584796-5,136,Irish Gaelic,s ,true
-488376698-5,137,Kannada,s ,true
-446965445-0,138,Oriya, h,true
-551479101-7,139,Albanian, h,false
-627712761-6,140,Gujarati, h,false
-358935033-4,141,Japanese, h,false
-582155437-3,142,Northern Sotho, h,true
-266220070-7,143,Swati,s ,false
-841828500-1,144,Norwegian,s ,false
-499888762-9,145,Mongolian,s ,false
-960250458-7,146,Haitian Creole, h,true
-685112103-4,147,Pashto,s ,true
-760494252-0,148,Haitian Creole, h,false
-203531468-2,149,West Frisian, h,true
-467427303-X,150,Aymara,s ,true
-088257620-8,151,Aymara,s ,true
-631015303-X,152,Gagauz, h,true
-623991523-8,153,Zulu,s ,false
-468006489-7,154,German, h,true
-141591225-4,155,Luxembourgish, h,true
-855834524-4,156,Korean,s ,false
-833312317-1,157,Oriya,s ,true
-650504106-0,158,Chinese, h,false
-877271322-4,159,English, h,false
-032386814-2,160,German, h,false
-869817547-3,161,Spanish,s ,true
-561402908-7,162,Afrikaans,s ,false
-404563196-8,163,Burmese,s ,true
-828521843-0,164,Guaraní, h,true
-674356873-2,165,Moldovan,s ,false
-184788780-5,166,Afrikaans, h,true
-582871456-2,167,Japanese, h,false
-766445801-3,168,Azeri, h,true
-785986652-8,169,West Frisian,s ,true
-038338175-4,170,Assamese,s ,true
-075083963-5,171,Irish Gaelic,s ,true
-656242041-5,172,Fijian,s ,true
-982394714-7,173,Gujarati, h,true
-018468773-X,174,Gujarati,s ,true
-826527560-9,175,Somali, h,true
-433959234-X,176,Sotho,s ,true
-486680129-8,177,Northern Sotho,s ,true
-155843385-6,178,Icelandic,s ,true
-491382325-6,179,Tamil, h,true
-196016887-8,180,Filipino,s ,true
-904963991-7,181,Oriya, h,true
-306267643-4,182,Portuguese,s ,false
-792370375-2,183,Hungarian,s ,false
-710872995-4,184,Tajik, h,false
-323224455-6,185,Hiri Motu, h,false
-230226571-8,186,Kazakh,s ,true
-798991915-X,187,Thai, h,false
-174154743-1,188,Ndebele, h,false
-894346787-7,189,Dzongkha,s ,true
-942721936-X,190,Tetum, h,true
-921274891-0,191,Dzongkha,s ,true
-403390561-8,192,Belarusian,s ,false
-642862617-9,193,Danish, h,true
-068356215-0,194,Gujarati, h,true
-929437092-5,195,Finnish, h,true
-072767726-8,196,Māori, h,true
-699389214-6,197,Czech,s ,false
-781261381-X,198,Kyrgyz, h,true
-179074353-2,199,Macedonian,s ,false
-846096559-7,200,Tok Pisin, h,false
-954513845-9,201,Marathi,s ,true
-451443667-4,202,Amharic, h,true
-927315142-6,203,Dzongkha, h,true
-252382698-4,204,Marathi, h,true
-564101208-4,205,Gagauz,s ,false
-634857263-3,206,Bulgarian,s ,true
-360844725-3,207,Somali, h,false
-661492991-7,208,Maltese,s ,false
-743239828-3,209,Tajik, h,false
-850843365-4,210,Tetum,s ,true
-479363001-4,211,Lithuanian,s ,true
-802142849-X,212,Japanese, h,false
-213736859-5,213,Dhivehi, h,true
-508584452-1,214,Arabic, h,false
-968731081-2,215,Korean,s ,true
-052037296-4,216,Kannada, h,true
-039642994-7,217,Dari,s ,true
-159372416-0,218,Thai,s ,true
-968405970-1,219,Spanish,s ,false
-185048244-6,220,Thai,s ,true
-810801065-9,221,Greek, h,false
-530533913-8,222,Tsonga,s ,true
-643263817-8,223,Pashto,s ,false
-439988058-9,224,Lao, h,false
-888622565-2,225,Somali,s ,true
-519423667-0,226,Croatian,s ,true
-313884333-6,227,Hindi,s ,true
-722186550-7,228,Hindi,s ,false
-012061570-3,229,Punjabi, h,false
-791390353-8,230,Burmese, h,false
-869054257-4,231,Bulgarian, h,true
-842193879-7,232,Afrikaans, h,true
-358695765-3,233,Māori,s ,true
-743236011-1,234,Moldovan, h,false
-346909868-9,235,Bislama,s ,false
-146609705-1,236,New Zealand Sign Language, h,true
-945402651-8,237,Amharic,s ,true
-064084829-X,238,Guaraní,s ,false
-004322785-6,239,Zulu,s ,false
-783830473-3,240,Mongolian, h,false
-358991811-X,241,Maltese,s ,false
-070261133-6,242,Tsonga,s ,true
-251461005-2,243,Tajik,s ,false
-926040585-8,244,Czech,s ,false
-592964472-1,245,Dari,s ,false
-369237192-6,246,Catalan, h,false
-376268562-2,247,Pashto, h,false
-595419136-0,248,Kazakh,s ,true
-498279608-4,249,Dhivehi, h,false
-604353880-6,250,Greek, h,false
-862430590-X,251,Aymara,s ,false
-932394498-X,252,Tsonga,s ,true
-709474740-3,253,Japanese, h,true
-681786189-6,254,Georgian, h,true
-131137140-0,255,Korean,s ,false
-567676846-0,256,Sotho, h,true
-584484696-6,257,Greek,s ,true
-856466115-2,258,Telugu, h,false
-725825929-5,259,Tetum, h,false
-112029518-1,260,Nepali, h,false
-549317897-4,261,Afrikaans, h,true
-980719950-6,262,Zulu,s ,false
-104318288-8,263,Oriya, h,true
-152712848-2,264,Italian,s ,false
-458472133-5,265,Tsonga, h,true
-231057761-8,266,Mongolian, h,false
-528677757-0,267,Thai,s ,false
-833519880-2,268,Romanian, h,false
-304400527-2,269,West Frisian,s ,true
-201402138-4,270,Dari,s ,true
-162533030-8,271,Bengali, h,true
-885816871-2,272,French,s ,true
-952915888-2,273,German,s ,true
-341348042-1,274,Albanian, h,true
-023684921-2,275,Chinese,s ,true
-423974986-7,276,Armenian,s ,false
-728767678-8,277,Swahili,s ,false
-954535309-0,278,Ndebele, h,true
-950720851-8,279,Indonesian, h,true
-456694409-3,280,Swedish, h,true
-167966618-5,281,Portuguese, h,true
-101466351-2,282,Dhivehi, h,true
-324448438-7,283,Kyrgyz,s ,true
-228930828-5,284,Dutch,s ,false
-156668577-X,285,Malay, h,false
-689482812-1,286,Bengali,s ,false
-387080890-X,287,Estonian, h,true
-195768973-0,288,Kurdish,s ,false
-870262658-6,289,Hungarian,s ,false
-961475254-8,290,Ndebele, h,true
-732970237-4,291,Swahili,s ,true
-646535779-8,292,Kyrgyz, h,false
-971808429-0,293,Kannada,s ,false
-939962995-3,294,Tswana,s ,false
-771322046-1,295,Punjabi,s ,false
-727354365-9,296,Malagasy, h,true
-043473924-3,297,Bulgarian, h,true
-436072318-0,298,Gujarati,s ,true
-261973870-9,299,Kashmiri, h,false
-448040446-5,300,Malagasy, h,false
-658056944-1,301,Spanish,s ,true
-839592009-1,302,Latvian, h,true
-417205595-8,303,Malagasy, h,false
-491578386-3,304,Tajik,s ,false
-308684617-8,305,Luxembourgish, h,false
-668147247-8,306,New Zealand Sign Language, h,true
-235596866-7,307,Swedish, h,true
-623976233-4,308,Kurdish,s ,true
-923098086-2,309,Tok Pisin, h,true
-446938520-4,310,Zulu, h,false
-941812093-3,311,Quechua,s ,false
-759026891-7,312,Zulu,s ,true
-876896533-8,313,Lithuanian, h,false
-849615563-3,314,Greek, h,false
-446200015-3,315,Tamil, h,true
-143449176-5,316,Persian, h,false
-966927681-0,317,Spanish,s ,false
-607352893-0,318,Khmer, h,false
-309724170-1,319,Burmese,s ,true
-973272996-1,320,Korean,s ,true
-752725213-8,321,Gagauz,s ,false
-468568981-X,322,Zulu, h,false
-287714675-8,323,Swati,s ,false
-930641224-X,324,Sotho, h,true
-117190367-7,325,Kannada, h,true
-218698255-2,326,Czech,s ,true
-218432582-1,327,French,s ,true
-771063726-4,328,West Frisian, h,false
-661127747-1,329,Ndebele,s ,true
-123905925-6,330,Bosnian, h,false
-129152615-3,331,Macedonian,s ,false
-068894518-X,332,Sotho,s ,true
-074631296-2,333,Tajik,s ,true
-760019890-8,334,Georgian,s ,true
-971826909-6,335,Khmer, h,true
-087428146-6,336,Somali,s ,true
-977372861-7,337,Lao,s ,false
-901575431-4,338,Kyrgyz, h,false
-592239265-4,339,Bosnian, h,false
-615374657-8,340,Catalan,s ,true
-747820230-6,341,Malayalam,s ,false
-856695827-6,342,Hindi,s ,true
-616369255-1,343,Luxembourgish, h,true
-200710277-3,344,Burmese,s ,true
-366678798-3,345,Kurdish,s ,false
-139441460-9,346,Indonesian, h,true
-269976854-5,347,Korean, h,true
-701200610-2,348,Swati,s ,true
-871045744-5,349,Tsonga,s ,true
-699255845-5,350,Czech, h,false
-020211877-0,351,Fijian,s ,true
-525348645-3,352,New Zealand Sign Language, h,true
-102038056-X,353,Belarusian, h,true
-616806658-6,354,Afrikaans,s ,false
-840602707-X,355,Portuguese, h,true
-028830292-3,356,Dhivehi, h,true
-262845939-6,357,Persian, h,true
-506189877-X,358,Lao, h,true
-830783016-8,359,Kannada,s ,true
-023042361-2,360,Japanese,s ,false
-483493108-0,361,Kashmiri,s ,false
-633503711-4,362,Swahili, h,false
-904443294-X,363,Romanian,s ,false
-886665655-0,364,West Frisian,s ,true
-207743747-2,365,Dzongkha, h,false
-816896257-5,366,Arabic,s ,true
-787004829-1,367,Hindi,s ,false
-483163155-8,368,Kazakh, h,true
-506241854-2,369,Tajik,s ,true
-606495585-6,370,Telugu,s ,true
-286772723-5,371,Kashmiri,s ,true
-450688532-5,372,Tetum,s ,true
-779232351-X,373,Tamil,s ,true
-186134082-6,374,Māori, h,true
-311941051-9,375,Swati,s ,false
-787129798-8,376,Somali, h,true
-947879046-3,377,Quechua, h,true
-081516265-0,378,Hungarian,s ,false
-964324065-7,379,Czech,s ,true
-611912225-7,380,Swati,s ,true
-446403434-9,381,Azeri,s ,true
-916445567-X,382,Montenegrin,s ,false
-905739665-3,383,New Zealand Sign Language,s ,true
-990767280-7,384,Tamil,s ,false
-969354512-5,385,Kazakh, h,false
-669126324-3,386,Azeri, h,false
-430366577-0,387,New Zealand Sign Language,s ,true
-147458056-4,388,Finnish, h,false
-053361554-2,389,Bulgarian,s ,false
-895831968-2,390,Northern Sotho,s ,false
-827308400-0,391,Haitian Creole, h,false
-154908260-4,392,Macedonian, h,false
-522004744-2,393,Japanese, h,false
-537482608-5,394,Papiamento,s ,false
-499143301-0,395,Hungarian, h,false
-252989623-2,396,Papiamento, h,false
-096053319-2,397,Telugu,s ,false
-888005052-4,398,Yiddish,s ,true
-210993119-1,399,Zulu,s ,true
-445158633-X,400,Nepali, h,false
-243154358-7,401,Northern Sotho,s ,true
-700345479-3,402,Guaraní, h,false
-207352834-1,403,Dari,s ,false
-388723920-2,404,Romanian,s ,true
-846109752-1,405,New Zealand Sign Language, h,false
-223048626-8,406,Tajik, h,true
-811126874-2,407,Catalan,s ,true
-999916658-X,408,New Zealand Sign Language,s ,true
-175995250-8,409,Czech,s ,true
-662904480-0,410,Hungarian, h,true
-986049331-6,411,Papiamento, h,true
-947976381-8,412,Tok Pisin, h,true
-379095926-X,413,Hindi,s ,false
-326496337-X,414,Romanian,s ,false
-877904651-7,415,Estonian,s ,false
-709913489-2,416,Bosnian,s ,true
-916926085-0,417,Aymara,s ,true
-795830298-3,418,Czech, h,false
-173657110-9,419,Māori, h,false
-092277312-2,420,Dzongkha, h,true
-211629916-0,421,Dutch, h,false
-014395175-0,422,Azeri,s ,true
-280457859-3,423,Latvian,s ,false
-736019726-0,424,Fijian, h,false
-066692625-5,425,Danish,s ,false
-523524669-1,426,Italian, h,true
-146887732-1,427,Czech, h,false
-147552803-5,428,Zulu,s ,false
-890192456-0,429,Japanese,s ,false
-489366202-3,430,Quechua,s ,false
-402947431-4,431,Kyrgyz, h,true
-554092557-2,432,Gujarati, h,false
-928269173-X,433,Tajik, h,true
-342964715-0,434,Macedonian,s ,true
-236102473-X,435,Ndebele,s ,false
-886430839-3,436,Icelandic,s ,false
-857576154-4,437,Belarusian,s ,true
-293976746-7,438,Finnish, h,false
-812282857-4,439,Czech, h,false
-834192536-2,440,Khmer, h,true
-362633039-7,441,Gagauz, h,false
-903651406-1,442,German, h,false
-084837065-1,443,Icelandic,s ,true
-976828140-5,444,Filipino,s ,false
-633330281-3,445,Hindi, h,true
-302817290-9,446,Norwegian,s ,false
-979482669-3,447,Indonesian,s ,false
-321423555-9,448,Italian, h,false
-485313727-0,449,Latvian, h,true
-853647528-5,450,Lao, h,false
-307382781-1,451,Thai, h,true
-218764368-9,452,Latvian,s ,false
-314495320-2,453,Croatian,s ,false
-788194693-8,454,Finnish,s ,false
-300551457-9,455,Punjabi, h,true
-586135745-5,456,Georgian,s ,false
-402138474-X,457,Kannada, h,true
-356269871-2,458,Finnish,s ,false
-756399804-7,459,Romanian, h,true
-045916819-3,460,Mongolian, h,false
-153743849-2,461,Swati, h,true
-430061679-5,462,New Zealand Sign Language,s ,false
-403513065-6,463,Italian,s ,true
-524762198-0,464,Dari,s ,true
-523880577-2,465,Telugu,s ,true
-125938510-8,466,Marathi,s ,true
-834476414-9,467,New Zealand Sign Language,s ,true
-662339722-1,468,Indonesian, h,false
-611148785-X,469,Kurdish, h,false
-592734883-1,470,West Frisian,s ,false
-449861796-7,471,Tamil, h,true
-696333386-6,472,Aymara,s ,true
-052385681-4,473,Finnish, h,true
-277719406-8,474,Tsonga, h,true
-646214897-7,475,Sotho, h,true
-451868006-5,476,Sotho, h,true
-162477645-0,477,Moldovan,s ,false
-710195569-X,478,Guaraní,s ,true
-940961227-6,479,German,s ,false
-481309392-2,480,Māori,s ,false
-123506521-9,481,Dzongkha, h,true
-114570086-1,482,Romanian, h,true
-268078544-4,483,Marathi,s ,false
-180220096-7,484,Lao, h,false
-288106298-9,485,Dzongkha,s ,true
-937229572-8,486,Italian,s ,true
-088640989-6,487,Khmer, h,false
-290017518-6,488,Chinese, h,false
-965429153-3,489,Swedish,s ,true
-383518891-7,490,Kazakh,s ,false
-647840512-5,491,Bulgarian, h,false
-182462408-5,492,Croatian, h,true
-961041958-5,493,Kurdish,s ,false
-759962819-3,494,Tsonga,s ,true
-753624239-5,495,English, h,true
-640925359-1,496,Afrikaans, h,false
-631681970-6,497,Luxembourgish,s ,false
-269650113-0,498,Spanish,s ,true
-727584520-2,499,Bengali, h,false
-595626955-3,500,Croatian, h,true
-892178030-0,501,Finnish, h,true
-245930142-1,502,Māori,s ,true
-789871196-3,503,Marathi,s ,true
-939265119-8,504,Kurdish, h,true
-091755470-1,505,Norwegian,s ,true
-651120028-0,506,Amharic,s ,false
-691186190-X,507,Italian, h,true
-239918609-5,508,Czech, h,false
-005612896-7,509,Bengali, h,true
-107255418-6,510,Gagauz, h,false
-222918584-5,511,Japanese, h,true
-418702445-X,512,Burmese,s ,false
-367407738-8,513,Finnish, h,true
-351809997-3,514,Dari, h,true
-235348145-0,515,Oriya,s ,false
-415310868-5,516,Tsonga,s ,true
-698272033-0,517,Malay,s ,true
-353147994-6,518,German,s ,false
-105206577-5,519,Armenian, h,false
-515308081-1,520,Gujarati,s ,false
-052830179-9,521,Bulgarian, h,false
-195773763-8,522,Tok Pisin,s ,true
-333190917-3,523,Spanish,s ,false
-130770007-1,524,Swati,s ,true
-191449896-8,525,Dari, h,true
-868828608-6,526,Nepali,s ,true
-205579916-9,527,Azeri, h,false
-601483869-4,528,Estonian, h,true
-247146630-3,529,Tajik, h,false
-133417468-7,530,Sotho,s ,true
-135570877-X,531,Northern Sotho, h,false
-871492265-7,532,Assamese,s ,false
-075326686-5,533,Italian, h,false
-017629931-9,534,Kashmiri,s ,false
-244456337-9,535,Spanish, h,false
-549601009-8,536,Afrikaans, h,true
-403918923-X,537,Kyrgyz, h,true
-402161971-2,538,Czech,s ,true
-333464002-7,539,Romanian, h,true
-587539021-2,540,Luxembourgish, h,false
-456465685-6,541,Tamil, h,false
-530253927-6,542,Quechua, h,false
-809844111-3,543,Somali, h,true
-317531658-1,544,Persian,s ,true
-165049775-X,545,Malay, h,true
-899884130-4,546,Danish,s ,true
-296547562-1,547,Japanese, h,false
-400382229-3,548,Norwegian, h,false
-782593761-9,549,Māori, h,false
-475868608-4,550,Greek,s ,true
-243078155-7,551,Afrikaans,s ,false
-022228177-4,552,Fijian,s ,true
-743871780-1,553,Gujarati,s ,true
-106751900-9,554,Bulgarian, h,false
-687104339-X,555,Bulgarian, h,true
-416665009-2,556,Croatian,s ,true
-926660886-6,557,Romanian, h,false
-366137673-X,558,Catalan,s ,false
-020551596-7,559,Armenian, h,true
-958913922-1,560,Icelandic, h,true
-763067835-5,561,Kyrgyz, h,true
-286296772-6,562,Bulgarian,s ,true
-824811209-8,563,Pashto, h,true
-337765401-1,564,Tamil,s ,false
-003945899-7,565,Montenegrin,s ,false
-032700006-6,566,Zulu, h,true
-429584180-3,567,Danish,s ,true
-268031212-0,568,Tajik, h,false
-607730995-8,569,Zulu,s ,false
-517544153-1,570,French,s ,false
-233201336-9,571,Amharic, h,true
-917827548-2,572,Gujarati, h,false
-762684620-6,573,Māori, h,false
-150369012-1,574,Gagauz, h,true
-498983778-9,575,Greek,s ,true
-918405286-4,576,Croatian, h,false
-230788878-0,577,Croatian,s ,true
-592457812-7,578,Oriya,s ,true
-823385642-8,579,Bislama, h,false
-482913743-6,580,Indonesian,s ,true
-262054447-5,581,Latvian, h,true
-043316631-2,582,Portuguese, h,false
-705473923-X,583,Thai,s ,true
-792229062-4,584,Finnish,s ,false
-537105362-X,585,West Frisian, h,true
-682524393-4,586,Yiddish,s ,false
-284989129-0,587,Korean,s ,false
-191085009-8,588,Tamil, h,true
-308648934-0,589,Latvian,s ,false
-196207245-2,590,Croatian, h,false
-769873971-6,591,Kurdish, h,true
-204464945-4,592,Japanese, h,true
-346187584-8,593,German,s ,false
-754117815-2,594,Bengali,s ,true
-558479979-3,595,Swedish,s ,true
-897387708-9,596,Malayalam,s ,false
-222721967-X,597,Filipino,s ,false
-198572109-0,598,Quechua, h,false
-530745314-0,599,Kashmiri, h,false
-482490458-7,600,Fijian, h,true
-209719006-5,601,Hiri Motu,s ,true
-830214099-6,602,Tamil, h,false
-139849846-7,603,Albanian,s ,true
-856388938-9,604,Ndebele,s ,true
-130067253-6,605,Malayalam, h,true
-340686207-1,606,Malayalam,s ,true
-114847452-8,607,Czech, h,true
-946560117-9,608,Somali,s ,true
-624247072-1,609,Lithuanian,s ,false
-065321294-1,610,Telugu,s ,false
-706911985-2,611,Kazakh,s ,false
-030868052-9,612,Quechua,s ,false
-172934483-6,613,Telugu,s ,true
-665133178-7,614,Tetum, h,true
-493774967-6,615,Nepali,s ,false
-229561424-4,616,Maltese,s ,false
-707594553-X,617,Punjabi, h,true
-501011332-5,618,Irish Gaelic,s ,false
-076481243-2,619,Thai, h,true
-515640110-4,620,Japanese,s ,false
-755577278-7,621,Moldovan,s ,false
-752539262-5,622,Oriya,s ,false
-989606157-2,623,Swati, h,true
-939724300-4,624,Oriya, h,false
-761479947-X,625,Bengali, h,false
-970301858-0,626,Spanish, h,true
-470274945-5,627,Estonian,s ,true
-369482131-7,628,Dzongkha, h,true
-587493153-8,629,Czech, h,true
-555741110-0,630,Persian,s ,false
-480006944-0,631,Tsonga, h,true
-782641922-0,632,Tok Pisin, h,false
-201915435-8,633,Lithuanian, h,false
-192789429-8,634,Swedish,s ,true
-750957417-X,635,Montenegrin, h,true
-913436629-6,636,German,s ,true
-253491591-6,637,Spanish,s ,false
-292263166-4,638,Tsonga,s ,true
-492685322-1,639,Bislama, h,true
-260509002-7,640,Hungarian,s ,false
-668501678-7,641,Gujarati,s ,true
-050159280-6,642,Oriya,s ,false
-990672793-4,643,English, h,false
-053969693-5,644,Czech, h,true
-780747743-1,645,Telugu,s ,false
-589975208-4,646,Assamese,s ,true
-794195474-5,647,Moldovan, h,true
-139033584-4,648,Afrikaans,s ,true
-580369998-5,649,Tetum,s ,true
-975953197-6,650,Haitian Creole,s ,true
-719041475-4,651,Japanese, h,false
-256303472-8,652,Icelandic,s ,true
-124856153-8,653,Malay, h,true
-234593196-5,654,Lithuanian, h,false
-890189517-X,655,Czech, h,true
-014807453-7,656,Dari, h,false
-192778362-3,657,Czech, h,true
-659637769-5,658,Bislama, h,true
-494786274-2,659,Greek,s ,true
-868659213-9,660,Yiddish, h,false
-344983085-6,661,Belarusian, h,true
-742531916-0,662,Telugu, h,true
-558963812-7,663,Gagauz, h,true
-763527454-6,664,Portuguese,s ,false
-158426197-8,665,Pashto,s ,false
-459761248-3,666,Bislama,s ,true
-462379815-1,667,Fijian, h,true
-545537388-9,668,Hungarian, h,false
-242118586-6,669,Dari, h,true
-365440032-9,670,West Frisian,s ,true
-248022837-1,671,West Frisian,s ,true
-139643994-3,672,Portuguese, h,true
-509753900-1,673,Portuguese, h,false
-906890818-9,674,Hungarian,s ,false
-573706866-8,675,Danish, h,false
-065081226-3,676,Kashmiri,s ,true
-656868252-7,677,Bulgarian,s ,true
-147180603-0,678,Croatian, h,false
-734444046-6,679,Portuguese,s ,true
-638268067-2,680,Papiamento,s ,false
-829418929-4,681,Nepali,s ,true
-661679779-1,682,Chinese, h,true
-712180393-3,683,Dari,s ,false
-218357493-3,684,Catalan, h,false
-061266011-7,685,Tajik, h,false
-351055574-0,686,Malayalam, h,false
-877923871-8,687,Tsonga, h,false
-558250618-7,688,Chinese, h,false
-108693801-1,689,Swati, h,true
-309370836-2,690,Catalan, h,false
-275065820-9,691,Kazakh, h,false
-081827366-6,692,Quechua,s ,true
-244141757-6,693,Catalan, h,false
-328442246-3,694,Malagasy,s ,false
-238674719-0,695,Nepali, h,false
-818950602-1,696,Italian,s ,true
-756702077-7,697,Bulgarian, h,false
-930317314-7,698,Tetum,s ,true
-248675770-8,699,Yiddish,s ,true
-774186182-4,700,Lithuanian, h,false
-192513219-6,701,Tetum,s ,false
-165433196-1,702,Kashmiri,s ,false
-345910399-X,703,New Zealand Sign Language, h,false
-807479428-8,704,Chinese,s ,true
-679382097-4,705,Korean,s ,true
-343314468-0,706,Italian,s ,false
-222251072-4,707,Nepali,s ,false
-742175410-5,708,Estonian, h,false
-426758026-X,709,Greek, h,false
-892269139-5,710,Dari,s ,false
-778249912-7,711,Azeri, h,true
-332309566-9,712,Aymara, h,false
-217879714-8,713,Marathi, h,false
-553329571-2,714,Latvian, h,false
-799488152-1,715,Zulu,s ,false
-224524719-1,716,Sotho, h,false
-435727550-4,717,Swahili,s ,true
-745075056-2,718,Kurdish, h,false
-144458636-X,719,Khmer, h,true
-675872201-5,720,Polish,s ,true
-176886014-9,721,Kyrgyz, h,true
-540108707-1,722,Tok Pisin, h,true
-673238776-6,723,West Frisian, h,true
-942378700-2,724,Swati, h,false
-230166460-0,725,Kurdish,s ,false
-732161260-0,726,Māori, h,false
-457188328-5,727,Tsonga,s ,false
-021736734-8,728,Swahili, h,true
-344108171-4,729,Albanian, h,false
-212439949-7,730,Swedish, h,false
-811994386-4,731,Nepali, h,false
-472455277-8,732,Dari, h,true
-851890103-0,733,Fijian, h,true
-070943428-6,734,Gujarati, h,false
-570522714-0,735,Spanish, h,false
-108319920-X,736,Swati, h,false
-739178615-2,737,Northern Sotho, h,false
-759408813-1,738,Chinese,s ,true
-137360980-X,739,Aymara, h,true
-155010678-3,740,Tetum,s ,false
-037033345-4,741,Norwegian,s ,false
-896447823-1,742,Maltese,s ,false
-783340083-1,743,Hungarian, h,true
-641751827-2,744,Lithuanian,s ,true
-269074001-X,745,West Frisian, h,false
-337568856-3,746,Afrikaans, h,false
-681594016-0,747,Pashto, h,false
-657935603-0,748,West Frisian, h,false
-735524430-2,749,Dari, h,false
-799896276-3,750,Moldovan, h,true
-984912093-2,751,Mongolian,s ,true
-099077960-2,752,Marathi,s ,false
-141418220-1,753,Swahili,s ,false
-301672323-9,754,Bengali, h,false
-885339331-9,755,Kashmiri, h,false
-111924137-5,756,Spanish, h,true
-834564566-6,757,Malayalam,s ,true
-632461941-9,758,Oriya,s ,true
-263778560-8,759,Hungarian, h,true
-008646686-0,760,Czech,s ,false
-746982533-9,761,Amharic, h,false
-724139273-6,762,Somali, h,true
-194765156-0,763,Thai,s ,false
-980875316-7,764,Filipino,s ,false
-504651255-6,765,Azeri, h,false
-517874800-X,766,Swati, h,false
-000217536-3,767,German, h,false
-368613183-8,768,Tajik, h,false
-883276912-3,769,Tajik, h,true
-212782173-4,770,Japanese,s ,false
-412311960-3,771,Polish, h,false
-020869993-7,772,Haitian Creole,s ,false
-284577813-9,773,Luxembourgish,s ,false
-010865008-1,774,Korean, h,false
-855480365-5,775,Romanian,s ,false
-889742693-X,776,Swahili,s ,false
-956854513-1,777,Quechua, h,false
-131527446-9,778,Dzongkha,s ,true
-208923060-6,779,Ndebele,s ,true
-832268011-2,780,Persian,s ,false
-150311146-6,781,Italian,s ,false
-762651710-5,782,Albanian,s ,false
-182507704-5,783,Greek,s ,false
-434447153-9,784,Icelandic, h,true
-405974948-6,785,Afrikaans, h,true
-488623214-0,786,Tetum,s ,false
-824725404-2,787,Dzongkha,s ,true
-521907573-X,788,Papiamento,s ,false
-666464656-0,789,Japanese,s ,false
-892990487-4,790,Papiamento,s ,true
-959136365-6,791,English, h,false
-909586914-8,792,Marathi, h,false
-642671496-8,793,Nepali,s ,false
-545072991-X,794,Kazakh, h,true
-568201516-9,795,Tok Pisin, h,true
-958973491-X,796,New Zealand Sign Language, h,true
-824167161-X,797,Kyrgyz, h,true
-184222011-X,798,Bislama,s ,true
-788694247-7,799,Maltese, h,false
-043950202-0,800,Dari, h,true
-940452298-8,801,Punjabi,s ,true
-431240222-1,802,Malagasy,s ,true
-032347181-1,803,Marathi,s ,false
-572075776-7,804,Tswana, h,true
-274713733-3,805,Tamil, h,false
-628656271-0,806,Indonesian,s ,false
-574420419-9,807,Lithuanian,s ,false
-224058306-1,808,Macedonian,s ,false
-635051588-9,809,Kannada,s ,false
-156762705-6,810,Azeri,s ,false
-943498262-6,811,Norwegian,s ,false
-537377662-9,812,Marathi, h,true
-594125188-2,813,Swati, h,false
-712677386-2,814,Catalan, h,false
-246592973-9,815,Dari,s ,false
-151202836-3,816,Kurdish,s ,false
-218483175-1,817,Tok Pisin, h,false
-258376554-X,818,Kazakh,s ,true
-498216829-6,819,Punjabi, h,false
-963411061-4,820,Amharic,s ,false
-336208545-8,821,Finnish,s ,false
-315576706-5,822,Northern Sotho,s ,true
-198239903-1,823,Dzongkha, h,true
-944030541-X,824,German, h,false
-046509489-9,825,Luxembourgish,s ,true
-825907738-8,826,Czech, h,false
-664121062-6,827,Korean, h,false
-814151892-5,828,Bosnian,s ,true
-392224942-6,829,Swati,s ,false
-420668884-2,830,Malay,s ,false
-242731841-8,831,Marathi, h,true
-361941918-3,832,Tamil, h,false
-601004409-X,833,Tetum,s ,false
-142246965-4,834,Kannada,s ,true
-952271218-3,835,Aymara,s ,true
-938155797-7,836,Tajik,s ,true
-869025416-1,837,Finnish, h,true
-615329396-4,838,Icelandic, h,false
-145957633-0,839,Polish, h,false
-367387286-9,840,Hiri Motu,s ,false
-649545811-8,841,Lao, h,true
-831842250-3,842,New Zealand Sign Language, h,true
-946437782-8,843,Ndebele, h,true
-537390349-3,844,Sotho, h,true
-903159592-6,845,Swedish, h,false
-610965903-7,846,Sotho,s ,false
-482891291-6,847,Belarusian,s ,false
-784603623-8,848,English, h,true
-625992030-X,849,Burmese, h,false
-753230459-0,850,Mongolian, h,true
-531099081-X,851,Assamese, h,false
-513726808-9,852,Fijian,s ,false
-918796883-5,853,Bislama,s ,true
-973287925-4,854,Dhivehi,s ,true
-438876260-1,855,Khmer, h,true
-765513662-9,856,Ndebele, h,false
-453845310-2,857,Tetum,s ,false
-834731528-0,858,Lao, h,true
-216238283-0,859,Bislama, h,false
-197951483-6,860,Italian, h,false
-748154009-8,861,Fijian, h,true
-898014045-2,862,Norwegian,s ,false
-206689428-1,863,Chinese, h,false
-561888540-9,864,Korean, h,true
-756233749-7,865,Spanish,s ,false
-485030726-4,866,Tok Pisin, h,false
-686557092-8,867,Lao,s ,true
-385376882-2,868,French, h,false
-476790463-3,869,Fijian,s ,false
-398749521-9,870,Lao, h,false
-914381976-1,871,Swati,s ,false
-507295462-5,872,Estonian,s ,false
-146598937-4,873,Zulu, h,false
-562343219-0,874,Guaraní, h,false
-033109173-9,875,Somali,s ,true
-167852197-3,876,Indonesian,s ,false
-641401146-0,877,Haitian Creole, h,false
-472228402-4,878,Croatian, h,false
-361920210-9,879,Arabic,s ,false
-221770737-X,880,Lithuanian,s ,false
-275581440-3,881,Macedonian,s ,true
-661649623-6,882,Hiri Motu,s ,true
-692160087-4,883,Kazakh, h,true
-592957206-2,884,West Frisian, h,false
-650679306-6,885,Fijian,s ,false
-046515600-2,886,French,s ,true
-157974563-6,887,Malay, h,false
-548243689-6,888,Albanian,s ,true
-892906465-5,889,French,s ,false
-873499970-1,890,Norwegian, h,true
-435617038-5,891,Hungarian, h,true
-448981134-9,892,Afrikaans,s ,true
-193543938-3,893,English, h,false
-540199029-4,894,Dari, h,true
-710972136-1,895,Kashmiri, h,false
-445981013-1,896,Montenegrin,s ,true
-508092927-8,897,Hiri Motu,s ,false
-720001298-X,898,Hiri Motu, h,false
-950640336-8,899,Japanese,s ,false
-440671065-5,900,Georgian,s ,true
-919288589-6,901,Estonian,s ,true
-630272281-0,902,German, h,false
-480259436-4,903,Lao,s ,true
-647622397-6,904,Belarusian, h,false
-950221663-6,905,Tok Pisin, h,false
-325921911-0,906,New Zealand Sign Language, h,true
-176166622-3,907,Danish,s ,true
-833375013-3,908,Bislama,s ,false
-297979574-7,909,Somali, h,true
-767258906-7,910,Catalan, h,true
-434579865-5,911,West Frisian, h,true
-763442751-9,912,Sotho,s ,false
-668716151-2,913,Hiri Motu,s ,false
-251454768-7,914,Kurdish, h,true
-184235300-4,915,Guaraní, h,true
-468519562-0,916,Lithuanian, h,true
-698060891-6,917,Icelandic,s ,true
-997420932-3,918,Swahili,s ,true
-975505192-9,919,Danish,s ,true
-935611749-7,920,German, h,false
-667360439-5,921,Quechua, h,false
-642051387-1,922,Pashto, h,true
-589017750-8,923,Lithuanian,s ,true
-445466228-2,924,Sotho,s ,true
-827442324-0,925,Hebrew,s ,false
-968446257-3,926,German, h,false
-907186600-9,927,Bosnian,s ,false
-224020626-8,928,Tamil,s ,false
-960811359-8,929,Aymara,s ,false
-930551598-3,930,Aymara, h,true
-587141415-X,931,Malagasy,s ,true
-859644889-6,932,Armenian, h,true
-206289044-3,933,Czech, h,true
-366380172-1,934,Malagasy,s ,false
-830019263-8,935,Tsonga,s ,false
-637575838-6,936,New Zealand Sign Language, h,false
-143363571-2,937,Croatian,s ,false
-181390055-8,938,Icelandic,s ,true
-580066349-1,939,Malayalam, h,false
-228506408-X,940,Finnish,s ,true
-917615485-8,941,Albanian,s ,true
-441885039-2,942,Tswana, h,true
-343735221-0,943,Yiddish, h,false
-718185280-9,944,Fijian,s ,false
-923495096-8,945,Marathi,s ,false
-416663467-4,946,Yiddish, h,false
-585281290-0,947,Gagauz, h,false
-579258543-1,948,Polish, h,false
-050099841-8,949,Telugu,s ,false
-894381016-4,950,Zulu,s ,true
-266881567-3,951,Lao,s ,true
-962079674-8,952,Hebrew, h,true
-240877457-8,953,Persian, h,true
-084341630-0,954,Thai,s ,true
-152123774-3,955,Belarusian, h,true
-373479360-2,956,Bosnian,s ,false
-697569934-8,957,Zulu, h,true
-734475395-2,958,Dari,s ,true
-472972031-8,959,Dutch,s ,false
-241777395-3,960,Fijian, h,true
-993810974-8,961,Kazakh,s ,false
-837623803-5,962,Lithuanian, h,true
-479561357-5,963,West Frisian,s ,true
-470823592-5,964,Luxembourgish,s ,false
-162500405-2,965,West Frisian,s ,true
-163481018-X,966,Burmese, h,false
-808564716-8,967,Hiri Motu,s ,false
-105458311-0,968,Hebrew,s ,true
-593400373-9,969,Azeri, h,false
-744600558-0,970,Kurdish,s ,false
-273110067-2,971,Tsonga, h,false
-022111980-9,972,Moldovan, h,false
-070110670-0,973,Quechua, h,true
-203648925-7,974,Papiamento, h,true
-289213786-1,975,Hebrew,s ,false
-623016234-2,976,Georgian, h,true
-236528222-9,977,Japanese, h,false
-203902357-7,978,Dari, h,true
-642011322-9,979,Marathi, h,true
-453024479-2,980,Papiamento,s ,false
-542162278-9,981,Latvian, h,false
-596755049-6,982,Georgian,s ,false
-652947920-1,983,German,s ,false
-542905812-2,984,Tamil,s ,false
-486710766-2,985,Tetum, h,false
-259982613-6,986,Hiri Motu,s ,false
-384484100-8,987,Tswana,s ,false
-765801843-0,988,Malay,s ,true
-857976063-1,989,Fijian, h,true
-473574844-X,990,Oriya, h,false
-533443341-4,991,Japanese,s ,true
-888758490-7,992,Estonian, h,false
-990991214-7,993,Portuguese, h,false
-494058926-9,994,West Frisian, h,false
-138642750-0,995,Belarusian, h,false
-708037849-4,996,Ndebele, h,true
-032289494-8,997,Tok Pisin, h,false
-901931025-9,998,Guaraní, h,false
-260370922-4,999,Maltese, h,true
-938627434-5,1000,Spanish,s ,false
+879368921-7,1,Azeri,h,0
+790016437-5,2,Persian,h,1
+066524669-2,3,Estonian,h,1
+364987835-6,4,Dhivehi,h,0
+332520271-3,5,Chinese,s,1
+260478202-2,6,Gagauz,h,0
+357817930-2,7,German,s,0
+582684799-9,8,Romanian,s,0
+582456276-8,9,Tswana,h,1
+381201741-5,10,IrishGaelic,h,1
+845623893-7,11,Dutch,h,1
+808060227-1,12,Telugu,s,0
+502535591-5,13,Norwegian,h,0
+739525572-0,14,Amharic,h,1
+164384663-9,15,HiriMotu,s,1
+781643488-X,16,Lithuanian,h,1
+007231000-6,17,Quechua,s,1
+459570713-4,18,Filipino,s,0
+512261037-1,19,Malay,h,1
+790899831-3,20,Tswana,s,1
+431112867-3,21,Azeri,s,0
+375402500-7,22,Malagasy,s,0
+578145865-4,23,Icelandic,s,1
+299430563-1,24,NorthernSotho,s,1
+445392525-5,25,Kazakh,h,0
+869826682-7,26,Malayalam,s,0
+178872967-6,27,Polish,h,0
+699562360-6,28,Malagasy,s,1
+990755551-7,29,Dari,h,0
+110879424-6,30,Dari,s,0
+690139555-8,31,Hebrew,h,0
+682733539-9,32,Albanian,s,0
+954157779-2,33,Bosnian,s,1
+899791494-4,34,Swati,s,0
+514263048-3,35,Bislama,s,1
+092438831-5,36,Kurdish,h,1
+764657566-6,37,Kannada,h,1
+068377638-X,38,Burmese,h,1
+040717335-8,39,Malagasy,s,1
+862507977-6,40,Macedonian,h,1
+757102745-4,41,Malayalam,s,1
+684285525-X,42,Catalan,s,0
+228574614-8,43,Italian,h,0
+216191054-X,44,Lao,s,1
+037189629-0,45,Mongolian,s,1
+347380296-4,46,Tajik,h,0
+646966799-6,47,Latvian,h,1
+272943672-3,48,Guaraní,h,0
+716776342-X,49,Spanish,h,1
+916102546-1,50,Ndebele,s,0
+212772020-2,51,Montenegrin,h,1
+464814419-8,52,Gagauz,h,1
+160501557-1,53,HiriMotu,s,0
+853399626-8,54,Tsonga,h,0
+455631415-1,55,Danish,h,1
+599028319-9,56,Croatian,s,0
+087313708-6,57,Quechua,s,0
+080962259-9,58,Latvian,h,1
+578517046-9,59,Kazakh,h,0
+995142570-4,60,Maltese,s,1
+154043192-4,61,Khmer,h,1
+413612032-X,62,Oriya,h,0
+000798934-2,63,Montenegrin,h,0
+407165322-1,64,Dari,s,0
+343638887-4,65,Indonesian,s,1
+177970598-0,66,NorthernSotho,h,1
+408886121-3,67,Kannada,h,1
+417955969-2,68,Pashto,s,0
+151147383-5,69,Somali,h,0
+403668351-9,70,Korean,s,1
+007724014-6,71,Korean,h,1
+800674720-2,72,Malayalam,h,0
+268134068-3,73,Telugu,h,1
+960998589-0,74,Nepali,s,1
+100961548-3,75,Malay,h,0
+773889943-3,76,Nepali,h,0
+426841543-2,77,Romanian,h,1
+522395670-2,78,Swahili,h,0
+197071943-5,79,Aymara,s,1
+338677699-X,80,Norwegian,s,1
+764219489-7,81,Moldovan,s,0
+438553802-6,82,NewZealand,h,1
+090699929-4,83,Swahili,h,0
+943197964-0,84,Danish,h,0
+565254895-9,85,Khmer,s,0
+802581682-6,86,Kurdish,s,1
+814185148-9,87,Fijian,h,1
+894990212-5,88,TokPisin,s,1
+423860428-8,89,Bengali,h,1
+933351211-X,90,Bislama,s,0
+357515716-2,91,Belarusian,h,0
+762390526-0,92,Thai,h,1
+190187479-6,93,HiriMotu,s,1
+501423410-0,94,Hungarian,h,1
+335498156-3,95,Hungarian,s,0
+867486452-X,96,Oriya,s,0
+363415975-8,97,French,h,0
+833193238-2,98,Sotho,s,0
+841540365-8,99,Korean,s,0
+386673297-X,100,Bislama,s,1
+964708857-4,101,Tamil,h,1
+107192948-8,102,Greek,s,0
+285699975-1,103,Polish,s,0
+453478568-2,104,Guaraní,h,0
+224474672-0,105,Bislama,s,1
+435005067-1,106,Estonian,s,0
+251026263-7,107,Amharic,s,1
+106920544-3,108,Latvian,s,1
+102226456-7,109,Amharic,h,0
+211390440-3,110,Aymara,s,0
+400195393-5,111,Guaraní,s,0
+580668164-5,112,Aymara,s,1
+931302529-9,113,Kazakh,s,1
+373283725-4,114,Swahili,s,0
+410998305-3,115,Belarusian,s,0
+824407154-0,116,Persian,h,1
+558329857-X,117,NorthernSotho,s,1
+632010375-2,118,Kashmiri,h,0
+115650995-5,119,Hindi,s,0
+244219305-1,120,Malay,h,0
+760091383-6,121,Dari,s,1
+548200693-X,122,NorthernSotho,h,0
+622578594-9,123,WestFrisian,s,0
+962716070-9,124,Fijian,h,0
+787474399-7,125,Malagasy,s,0
+548467293-7,126,Thai,h,1
+230884165-6,127,Japanese,h,0
+519833540-1,128,Finnish,s,0
+372715801-8,129,English,h,0
+284790767-X,130,Croatian,h,1
+611944149-2,131,Assamese,h,1
+719992205-1,132,Catalan,s,1
+528191329-8,133,Filipino,s,1
+059071692-1,134,Moldovan,s,0
+489213256-X,135,Malagasy,h,0
+076584796-5,136,IrishGaelic,s,1
+488376698-5,137,Kannada,s,1
+446965445-0,138,Oriya,h,1
+551479101-7,139,Albanian,h,0
+627712761-6,140,Gujarati,h,0
+358935033-4,141,Japanese,h,0
+582155437-3,142,NorthernSotho,h,1
+266220070-7,143,Swati,s,0
+841828500-1,144,Norwegian,s,0
+499888762-9,145,Mongolian,s,0
+960250458-7,146,HaitianCreole,h,1
+685112103-4,147,Pashto,s,1
+760494252-0,148,HaitianCreole,h,0
+203531468-2,149,WestFrisian,h,1
+467427303-X,150,Aymara,s,1
+088257620-8,151,Aymara,s,1
+631015303-X,152,Gagauz,h,1
+623991523-8,153,Zulu,s,0
+468006489-7,154,German,h,1
+141591225-4,155,Luxembourgish,h,1
+855834524-4,156,Korean,s,0
+833312317-1,157,Oriya,s,1
+650504106-0,158,Chinese,h,0
+877271322-4,159,English,h,0
+032386814-2,160,German,h,0
+869817547-3,161,Spanish,s,1
+561402908-7,162,Afrikaans,s,0
+404563196-8,163,Burmese,s,1
+828521843-0,164,Guaraní,h,1
+674356873-2,165,Moldovan,s,0
+184788780-5,166,Afrikaans,h,1
+582871456-2,167,Japanese,h,0
+766445801-3,168,Azeri,h,1
+785986652-8,169,WestFrisian,s,1
+038338175-4,170,Assamese,s,1
+075083963-5,171,IrishGaelic,s,1
+656242041-5,172,Fijian,s,1
+982394714-7,173,Gujarati,h,1
+018468773-X,174,Gujarati,s,1
+826527560-9,175,Somali,h,1
+433959234-X,176,Sotho,s,1
+486680129-8,177,NorthernSotho,s,1
+155843385-6,178,Icelandic,s,1
+491382325-6,179,Tamil,h,1
+196016887-8,180,Filipino,s,1
+904963991-7,181,Oriya,h,1
+306267643-4,182,Portuguese,s,0
+792370375-2,183,Hungarian,s,0
+710872995-4,184,Tajik,h,0
+323224455-6,185,HiriMotu,h,0
+230226571-8,186,Kazakh,s,1
+798991915-X,187,Thai,h,0
+174154743-1,188,Ndebele,h,0
+894346787-7,189,Dzongkha,s,1
+942721936-X,190,Tetum,h,1
+921274891-0,191,Dzongkha,s,1
+403390561-8,192,Belarusian,s,0
+642862617-9,193,Danish,h,1
+068356215-0,194,Gujarati,h,1
+929437092-5,195,Finnish,h,1
+072767726-8,196,Māori,h,1
+699389214-6,197,Czech,s,0
+781261381-X,198,Kyrgyz,h,1
+179074353-2,199,Macedonian,s,0
+846096559-7,200,TokPisin,h,0
+954513845-9,201,Marathi,s,1
+451443667-4,202,Amharic,h,1
+927315142-6,203,Dzongkha,h,1
+252382698-4,204,Marathi,h,1
+564101208-4,205,Gagauz,s,0
+634857263-3,206,Bulgarian,s,1
+360844725-3,207,Somali,h,0
+661492991-7,208,Maltese,s,0
+743239828-3,209,Tajik,h,0
+850843365-4,210,Tetum,s,1
+479363001-4,211,Lithuanian,s,1
+802142849-X,212,Japanese,h,0
+213736859-5,213,Dhivehi,h,1
+508584452-1,214,Arabic,h,0
+968731081-2,215,Korean,s,1
+052037296-4,216,Kannada,h,1
+039642994-7,217,Dari,s,1
+159372416-0,218,Thai,s,1
+968405970-1,219,Spanish,s,0
+185048244-6,220,Thai,s,1
+810801065-9,221,Greek,h,0
+530533913-8,222,Tsonga,s,1
+643263817-8,223,Pashto,s,0
+439988058-9,224,Lao,h,0
+888622565-2,225,Somali,s,1
+519423667-0,226,Croatian,s,1
+313884333-6,227,Hindi,s,1
+722186550-7,228,Hindi,s,0
+012061570-3,229,Punjabi,h,0
+791390353-8,230,Burmese,h,0
+869054257-4,231,Bulgarian,h,1
+842193879-7,232,Afrikaans,h,1
+358695765-3,233,Māori,s,1
+743236011-1,234,Moldovan,h,0
+346909868-9,235,Bislama,s,0
+146609705-1,236,NewZealand,h,1
+945402651-8,237,Amharic,s,1
+064084829-X,238,Guaraní,s,0
+004322785-6,239,Zulu,s,0
+783830473-3,240,Mongolian,h,0
+358991811-X,241,Maltese,s,0
+070261133-6,242,Tsonga,s,1
+251461005-2,243,Tajik,s,0
+926040585-8,244,Czech,s,0
+592964472-1,245,Dari,s,0
+369237192-6,246,Catalan,h,0
+376268562-2,247,Pashto,h,0
+595419136-0,248,Kazakh,s,1
+498279608-4,249,Dhivehi,h,0
+604353880-6,250,Greek,h,0
+862430590-X,251,Aymara,s,0
+932394498-X,252,Tsonga,s,1
+709474740-3,253,Japanese,h,1
+681786189-6,254,Georgian,h,1
+131137140-0,255,Korean,s,0
+567676846-0,256,Sotho,h,1
+584484696-6,257,Greek,s,1
+856466115-2,258,Telugu,h,0
+725825929-5,259,Tetum,h,0
+112029518-1,260,Nepali,h,0
+549317897-4,261,Afrikaans,h,1
+980719950-6,262,Zulu,s,0
+104318288-8,263,Oriya,h,1
+152712848-2,264,Italian,s,0
+458472133-5,265,Tsonga,h,1
+231057761-8,266,Mongolian,h,0
+528677757-0,267,Thai,s,0
+833519880-2,268,Romanian,h,0
+304400527-2,269,WestFrisian,s,1
+201402138-4,270,Dari,s,1
+162533030-8,271,Bengali,h,1
+885816871-2,272,French,s,1
+952915888-2,273,German,s,1
+341348042-1,274,Albanian,h,1
+023684921-2,275,Chinese,s,1
+423974986-7,276,Armenian,s,0
+728767678-8,277,Swahili,s,0
+954535309-0,278,Ndebele,h,1
+950720851-8,279,Indonesian,h,1
+456694409-3,280,Swedish,h,1
+167966618-5,281,Portuguese,h,1
+101466351-2,282,Dhivehi,h,1
+324448438-7,283,Kyrgyz,s,1
+228930828-5,284,Dutch,s,0
+156668577-X,285,Malay,h,0
+689482812-1,286,Bengali,s,0
+387080890-X,287,Estonian,h,1
+195768973-0,288,Kurdish,s,0
+870262658-6,289,Hungarian,s,0
+961475254-8,290,Ndebele,h,1
+732970237-4,291,Swahili,s,1
+646535779-8,292,Kyrgyz,h,0
+971808429-0,293,Kannada,s,0
+939962995-3,294,Tswana,s,0
+771322046-1,295,Punjabi,s,0
+727354365-9,296,Malagasy,h,1
+043473924-3,297,Bulgarian,h,1
+436072318-0,298,Gujarati,s,1
+261973870-9,299,Kashmiri,h,0
+448040446-5,300,Malagasy,h,0
+658056944-1,301,Spanish,s,1
+839592009-1,302,Latvian,h,1
+417205595-8,303,Malagasy,h,0
+491578386-3,304,Tajik,s,0
+308684617-8,305,Luxembourgish,h,0
+668147247-8,306,NewZealand,h,1
+235596866-7,307,Swedish,h,1
+623976233-4,308,Kurdish,s,1
+923098086-2,309,TokPisin,h,1
+446938520-4,310,Zulu,h,0
+941812093-3,311,Quechua,s,0
+759026891-7,312,Zulu,s,1
+876896533-8,313,Lithuanian,h,0
+849615563-3,314,Greek,h,0
+446200015-3,315,Tamil,h,1
+143449176-5,316,Persian,h,0
+966927681-0,317,Spanish,s,0
+607352893-0,318,Khmer,h,0
+309724170-1,319,Burmese,s,1
+973272996-1,320,Korean,s,1
+752725213-8,321,Gagauz,s,0
+468568981-X,322,Zulu,h,0
+287714675-8,323,Swati,s,0
+930641224-X,324,Sotho,h,1
+117190367-7,325,Kannada,h,1
+218698255-2,326,Czech,s,1
+218432582-1,327,French,s,1
+771063726-4,328,WestFrisian,h,0
+661127747-1,329,Ndebele,s,1
+123905925-6,330,Bosnian,h,0
+129152615-3,331,Macedonian,s,0
+068894518-X,332,Sotho,s,1
+074631296-2,333,Tajik,s,1
+760019890-8,334,Georgian,s,1
+971826909-6,335,Khmer,h,1
+087428146-6,336,Somali,s,1
+977372861-7,337,Lao,s,0
+901575431-4,338,Kyrgyz,h,0
+592239265-4,339,Bosnian,h,0
+615374657-8,340,Catalan,s,1
+747820230-6,341,Malayalam,s,0
+856695827-6,342,Hindi,s,1
+616369255-1,343,Luxembourgish,h,1
+200710277-3,344,Burmese,s,1
+366678798-3,345,Kurdish,s,0
+139441460-9,346,Indonesian,h,1
+269976854-5,347,Korean,h,1
+701200610-2,348,Swati,s,1
+871045744-5,349,Tsonga,s,1
+699255845-5,350,Czech,h,0
+020211877-0,351,Fijian,s,1
+525348645-3,352,NewZealand,h,1
+102038056-X,353,Belarusian,h,1
+616806658-6,354,Afrikaans,s,0
+840602707-X,355,Portuguese,h,1
+028830292-3,356,Dhivehi,h,1
+262845939-6,357,Persian,h,1
+506189877-X,358,Lao,h,1
+830783016-8,359,Kannada,s,1
+023042361-2,360,Japanese,s,0
+483493108-0,361,Kashmiri,s,0
+633503711-4,362,Swahili,h,0
+904443294-X,363,Romanian,s,0
+886665655-0,364,WestFrisian,s,1
+207743747-2,365,Dzongkha,h,0
+816896257-5,366,Arabic,s,1
+787004829-1,367,Hindi,s,0
+483163155-8,368,Kazakh,h,1
+506241854-2,369,Tajik,s,1
+606495585-6,370,Telugu,s,1
+286772723-5,371,Kashmiri,s,1
+450688532-5,372,Tetum,s,1
+779232351-X,373,Tamil,s,1
+186134082-6,374,Māori,h,1
+311941051-9,375,Swati,s,0
+787129798-8,376,Somali,h,1
+947879046-3,377,Quechua,h,1
+081516265-0,378,Hungarian,s,0
+964324065-7,379,Czech,s,1
+611912225-7,380,Swati,s,1
+446403434-9,381,Azeri,s,1
+916445567-X,382,Montenegrin,s,0
+905739665-3,383,NewZealand,s,1
+990767280-7,384,Tamil,s,0
+969354512-5,385,Kazakh,h,0
+669126324-3,386,Azeri,h,0
+430366577-0,387,NewZealand,s,1
+147458056-4,388,Finnish,h,0
+053361554-2,389,Bulgarian,s,0
+895831968-2,390,NorthernSotho,s,0
+827308400-0,391,HaitianCreole,h,0
+154908260-4,392,Macedonian,h,0
+522004744-2,393,Japanese,h,0
+537482608-5,394,Papiamento,s,0
+499143301-0,395,Hungarian,h,0
+252989623-2,396,Papiamento,h,0
+096053319-2,397,Telugu,s,0
+888005052-4,398,Yiddish,s,1
+210993119-1,399,Zulu,s,1
+445158633-X,400,Nepali,h,0
+243154358-7,401,NorthernSotho,s,1
+700345479-3,402,Guaraní,h,0
+207352834-1,403,Dari,s,0
+388723920-2,404,Romanian,s,1
+846109752-1,405,NewZealand,h,0
+223048626-8,406,Tajik,h,1
+811126874-2,407,Catalan,s,1
+999916658-X,408,NewZealand,s,1
+175995250-8,409,Czech,s,1
+662904480-0,410,Hungarian,h,1
+986049331-6,411,Papiamento,h,1
+947976381-8,412,TokPisin,h,1
+379095926-X,413,Hindi,s,0
+326496337-X,414,Romanian,s,0
+877904651-7,415,Estonian,s,0
+709913489-2,416,Bosnian,s,1
+916926085-0,417,Aymara,s,1
+795830298-3,418,Czech,h,0
+173657110-9,419,Māori,h,0
+092277312-2,420,Dzongkha,h,1
+211629916-0,421,Dutch,h,0
+014395175-0,422,Azeri,s,1
+280457859-3,423,Latvian,s,0
+736019726-0,424,Fijian,h,0
+066692625-5,425,Danish,s,0
+523524669-1,426,Italian,h,1
+146887732-1,427,Czech,h,0
+147552803-5,428,Zulu,s,0
+890192456-0,429,Japanese,s,0
+489366202-3,430,Quechua,s,0
+402947431-4,431,Kyrgyz,h,1
+554092557-2,432,Gujarati,h,0
+928269173-X,433,Tajik,h,1
+342964715-0,434,Macedonian,s,1
+236102473-X,435,Ndebele,s,0
+886430839-3,436,Icelandic,s,0
+857576154-4,437,Belarusian,s,1
+293976746-7,438,Finnish,h,0
+812282857-4,439,Czech,h,0
+834192536-2,440,Khmer,h,1
+362633039-7,441,Gagauz,h,0
+903651406-1,442,German,h,0
+084837065-1,443,Icelandic,s,1
+976828140-5,444,Filipino,s,0
+633330281-3,445,Hindi,h,1
+302817290-9,446,Norwegian,s,0
+979482669-3,447,Indonesian,s,0
+321423555-9,448,Italian,h,0
+485313727-0,449,Latvian,h,1
+853647528-5,450,Lao,h,0
+307382781-1,451,Thai,h,1
+218764368-9,452,Latvian,s,0
+314495320-2,453,Croatian,s,0
+788194693-8,454,Finnish,s,0
+300551457-9,455,Punjabi,h,1
+586135745-5,456,Georgian,s,0
+402138474-X,457,Kannada,h,1
+356269871-2,458,Finnish,s,0
+756399804-7,459,Romanian,h,1
+045916819-3,460,Mongolian,h,0
+153743849-2,461,Swati,h,1
+430061679-5,462,NewZealand,s,0
+403513065-6,463,Italian,s,1
+524762198-0,464,Dari,s,1
+523880577-2,465,Telugu,s,1
+125938510-8,466,Marathi,s,1
+834476414-9,467,NewZealand,s,1
+662339722-1,468,Indonesian,h,0
+611148785-X,469,Kurdish,h,0
+592734883-1,470,WestFrisian,s,0
+449861796-7,471,Tamil,h,1
+696333386-6,472,Aymara,s,1
+052385681-4,473,Finnish,h,1
+277719406-8,474,Tsonga,h,1
+646214897-7,475,Sotho,h,1
+451868006-5,476,Sotho,h,1
+162477645-0,477,Moldovan,s,0
+710195569-X,478,Guaraní,s,1
+940961227-6,479,German,s,0
+481309392-2,480,Māori,s,0
+123506521-9,481,Dzongkha,h,1
+114570086-1,482,Romanian,h,1
+268078544-4,483,Marathi,s,0
+180220096-7,484,Lao,h,0
+288106298-9,485,Dzongkha,s,1
+937229572-8,486,Italian,s,1
+088640989-6,487,Khmer,h,0
+290017518-6,488,Chinese,h,0
+965429153-3,489,Swedish,s,1
+383518891-7,490,Kazakh,s,0
+647840512-5,491,Bulgarian,h,0
+182462408-5,492,Croatian,h,1
+961041958-5,493,Kurdish,s,0
+759962819-3,494,Tsonga,s,1
+753624239-5,495,English,h,1
+640925359-1,496,Afrikaans,h,0
+631681970-6,497,Luxembourgish,s,0
+269650113-0,498,Spanish,s,1
+727584520-2,499,Bengali,h,0
+595626955-3,500,Croatian,h,1
+892178030-0,501,Finnish,h,1
+245930142-1,502,Māori,s,1
+789871196-3,503,Marathi,s,1
+939265119-8,504,Kurdish,h,1
+091755470-1,505,Norwegian,s,1
+651120028-0,506,Amharic,s,0
+691186190-X,507,Italian,h,1
+239918609-5,508,Czech,h,0
+005612896-7,509,Bengali,h,1
+107255418-6,510,Gagauz,h,0
+222918584-5,511,Japanese,h,1
+418702445-X,512,Burmese,s,0
+367407738-8,513,Finnish,h,1
+351809997-3,514,Dari,h,1
+235348145-0,515,Oriya,s,0
+415310868-5,516,Tsonga,s,1
+698272033-0,517,Malay,s,1
+353147994-6,518,German,s,0
+105206577-5,519,Armenian,h,0
+515308081-1,520,Gujarati,s,0
+052830179-9,521,Bulgarian,h,0
+195773763-8,522,TokPisin,s,1
+333190917-3,523,Spanish,s,0
+130770007-1,524,Swati,s,1
+191449896-8,525,Dari,h,1
+868828608-6,526,Nepali,s,1
+205579916-9,527,Azeri,h,0
+601483869-4,528,Estonian,h,1
+247146630-3,529,Tajik,h,0
+133417468-7,530,Sotho,s,1
+135570877-X,531,NorthernSotho,h,0
+871492265-7,532,Assamese,s,0
+075326686-5,533,Italian,h,0
+017629931-9,534,Kashmiri,s,0
+244456337-9,535,Spanish,h,0
+549601009-8,536,Afrikaans,h,1
+403918923-X,537,Kyrgyz,h,1
+402161971-2,538,Czech,s,1
+333464002-7,539,Romanian,h,1
+587539021-2,540,Luxembourgish,h,0
+456465685-6,541,Tamil,h,0
+530253927-6,542,Quechua,h,0
+809844111-3,543,Somali,h,1
+317531658-1,544,Persian,s,1
+165049775-X,545,Malay,h,1
+899884130-4,546,Danish,s,1
+296547562-1,547,Japanese,h,0
+400382229-3,548,Norwegian,h,0
+782593761-9,549,Māori,h,0
+475868608-4,550,Greek,s,1
+243078155-7,551,Afrikaans,s,0
+022228177-4,552,Fijian,s,1
+743871780-1,553,Gujarati,s,1
+106751900-9,554,Bulgarian,h,0
+687104339-X,555,Bulgarian,h,1
+416665009-2,556,Croatian,s,1
+926660886-6,557,Romanian,h,0
+366137673-X,558,Catalan,s,0
+020551596-7,559,Armenian,h,1
+958913922-1,560,Icelandic,h,1
+763067835-5,561,Kyrgyz,h,1
+286296772-6,562,Bulgarian,s,1
+824811209-8,563,Pashto,h,1
+337765401-1,564,Tamil,s,0
+003945899-7,565,Montenegrin,s,0
+032700006-6,566,Zulu,h,1
+429584180-3,567,Danish,s,1
+268031212-0,568,Tajik,h,0
+607730995-8,569,Zulu,s,0
+517544153-1,570,French,s,0
+233201336-9,571,Amharic,h,1
+917827548-2,572,Gujarati,h,0
+762684620-6,573,Māori,h,0
+150369012-1,574,Gagauz,h,1
+498983778-9,575,Greek,s,1
+918405286-4,576,Croatian,h,0
+230788878-0,577,Croatian,s,1
+592457812-7,578,Oriya,s,1
+823385642-8,579,Bislama,h,0
+482913743-6,580,Indonesian,s,1
+262054447-5,581,Latvian,h,1
+043316631-2,582,Portuguese,h,0
+705473923-X,583,Thai,s,1
+792229062-4,584,Finnish,s,0
+537105362-X,585,WestFrisian,h,1
+682524393-4,586,Yiddish,s,0
+284989129-0,587,Korean,s,0
+191085009-8,588,Tamil,h,1
+308648934-0,589,Latvian,s,0
+196207245-2,590,Croatian,h,0
+769873971-6,591,Kurdish,h,1
+204464945-4,592,Japanese,h,1
+346187584-8,593,German,s,0
+754117815-2,594,Bengali,s,1
+558479979-3,595,Swedish,s,1
+897387708-9,596,Malayalam,s,0
+222721967-X,597,Filipino,s,0
+198572109-0,598,Quechua,h,0
+530745314-0,599,Kashmiri,h,0
+482490458-7,600,Fijian,h,1
+209719006-5,601,HiriMotu,s,1
+830214099-6,602,Tamil,h,0
+139849846-7,603,Albanian,s,1
+856388938-9,604,Ndebele,s,1
+130067253-6,605,Malayalam,h,1
+340686207-1,606,Malayalam,s,1
+114847452-8,607,Czech,h,1
+946560117-9,608,Somali,s,1
+624247072-1,609,Lithuanian,s,0
+065321294-1,610,Telugu,s,0
+706911985-2,611,Kazakh,s,0
+030868052-9,612,Quechua,s,0
+172934483-6,613,Telugu,s,1
+665133178-7,614,Tetum,h,1
+493774967-6,615,Nepali,s,0
+229561424-4,616,Maltese,s,0
+707594553-X,617,Punjabi,h,1
+501011332-5,618,IrishGaelic,s,0
+076481243-2,619,Thai,h,1
+515640110-4,620,Japanese,s,0
+755577278-7,621,Moldovan,s,0
+752539262-5,622,Oriya,s,0
+989606157-2,623,Swati,h,1
+939724300-4,624,Oriya,h,0
+761479947-X,625,Bengali,h,0
+970301858-0,626,Spanish,h,1
+470274945-5,627,Estonian,s,1
+369482131-7,628,Dzongkha,h,1
+587493153-8,629,Czech,h,1
+555741110-0,630,Persian,s,0
+480006944-0,631,Tsonga,h,1
+782641922-0,632,TokPisin,h,0
+201915435-8,633,Lithuanian,h,0
+192789429-8,634,Swedish,s,1
+750957417-X,635,Montenegrin,h,1
+913436629-6,636,German,s,1
+253491591-6,637,Spanish,s,0
+292263166-4,638,Tsonga,s,1
+492685322-1,639,Bislama,h,1
+260509002-7,640,Hungarian,s,0
+668501678-7,641,Gujarati,s,1
+050159280-6,642,Oriya,s,0
+990672793-4,643,English,h,0
+053969693-5,644,Czech,h,1
+780747743-1,645,Telugu,s,0
+589975208-4,646,Assamese,s,1
+794195474-5,647,Moldovan,h,1
+139033584-4,648,Afrikaans,s,1
+580369998-5,649,Tetum,s,1
+975953197-6,650,HaitianCreole,s,1
+719041475-4,651,Japanese,h,0
+256303472-8,652,Icelandic,s,1
+124856153-8,653,Malay,h,1
+234593196-5,654,Lithuanian,h,0
+890189517-X,655,Czech,h,1
+014807453-7,656,Dari,h,0
+192778362-3,657,Czech,h,1
+659637769-5,658,Bislama,h,1
+494786274-2,659,Greek,s,1
+868659213-9,660,Yiddish,h,0
+344983085-6,661,Belarusian,h,1
+742531916-0,662,Telugu,h,1
+558963812-7,663,Gagauz,h,1
+763527454-6,664,Portuguese,s,0
+158426197-8,665,Pashto,s,0
+459761248-3,666,Bislama,s,1
+462379815-1,667,Fijian,h,1
+545537388-9,668,Hungarian,h,0
+242118586-6,669,Dari,h,1
+365440032-9,670,WestFrisian,s,1
+248022837-1,671,WestFrisian,s,1
+139643994-3,672,Portuguese,h,1
+509753900-1,673,Portuguese,h,0
+906890818-9,674,Hungarian,s,0
+573706866-8,675,Danish,h,0
+065081226-3,676,Kashmiri,s,1
+656868252-7,677,Bulgarian,s,1
+147180603-0,678,Croatian,h,0
+734444046-6,679,Portuguese,s,1
+638268067-2,680,Papiamento,s,0
+829418929-4,681,Nepali,s,1
+661679779-1,682,Chinese,h,1
+712180393-3,683,Dari,s,0
+218357493-3,684,Catalan,h,0
+061266011-7,685,Tajik,h,0
+351055574-0,686,Malayalam,h,0
+877923871-8,687,Tsonga,h,0
+558250618-7,688,Chinese,h,0
+108693801-1,689,Swati,h,1
+309370836-2,690,Catalan,h,0
+275065820-9,691,Kazakh,h,0
+081827366-6,692,Quechua,s,1
+244141757-6,693,Catalan,h,0
+328442246-3,694,Malagasy,s,0
+238674719-0,695,Nepali,h,0
+818950602-1,696,Italian,s,1
+756702077-7,697,Bulgarian,h,0
+930317314-7,698,Tetum,s,1
+248675770-8,699,Yiddish,s,1
+774186182-4,700,Lithuanian,h,0
+192513219-6,701,Tetum,s,0
+165433196-1,702,Kashmiri,s,0
+345910399-X,703,NewZealand,h,0
+807479428-8,704,Chinese,s,1
+679382097-4,705,Korean,s,1
+343314468-0,706,Italian,s,0
+222251072-4,707,Nepali,s,0
+742175410-5,708,Estonian,h,0
+426758026-X,709,Greek,h,0
+892269139-5,710,Dari,s,0
+778249912-7,711,Azeri,h,1
+332309566-9,712,Aymara,h,0
+217879714-8,713,Marathi,h,0
+553329571-2,714,Latvian,h,0
+799488152-1,715,Zulu,s,0
+224524719-1,716,Sotho,h,0
+435727550-4,717,Swahili,s,1
+745075056-2,718,Kurdish,h,0
+144458636-X,719,Khmer,h,1
+675872201-5,720,Polish,s,1
+176886014-9,721,Kyrgyz,h,1
+540108707-1,722,TokPisin,h,1
+673238776-6,723,WestFrisian,h,1
+942378700-2,724,Swati,h,0
+230166460-0,725,Kurdish,s,0
+732161260-0,726,Māori,h,0
+457188328-5,727,Tsonga,s,0
+021736734-8,728,Swahili,h,1
+344108171-4,729,Albanian,h,0
+212439949-7,730,Swedish,h,0
+811994386-4,731,Nepali,h,0
+472455277-8,732,Dari,h,1
+851890103-0,733,Fijian,h,1
+070943428-6,734,Gujarati,h,0
+570522714-0,735,Spanish,h,0
+108319920-X,736,Swati,h,0
+739178615-2,737,NorthernSotho,h,0
+759408813-1,738,Chinese,s,1
+137360980-X,739,Aymara,h,1
+155010678-3,740,Tetum,s,0
+037033345-4,741,Norwegian,s,0
+896447823-1,742,Maltese,s,0
+783340083-1,743,Hungarian,h,1
+641751827-2,744,Lithuanian,s,1
+269074001-X,745,WestFrisian,h,0
+337568856-3,746,Afrikaans,h,0
+681594016-0,747,Pashto,h,0
+657935603-0,748,WestFrisian,h,0
+735524430-2,749,Dari,h,0
+799896276-3,750,Moldovan,h,1
+984912093-2,751,Mongolian,s,1
+099077960-2,752,Marathi,s,0
+141418220-1,753,Swahili,s,0
+301672323-9,754,Bengali,h,0
+885339331-9,755,Kashmiri,h,0
+111924137-5,756,Spanish,h,1
+834564566-6,757,Malayalam,s,1
+632461941-9,758,Oriya,s,1
+263778560-8,759,Hungarian,h,1
+008646686-0,760,Czech,s,0
+746982533-9,761,Amharic,h,0
+724139273-6,762,Somali,h,1
+194765156-0,763,Thai,s,0
+980875316-7,764,Filipino,s,0
+504651255-6,765,Azeri,h,0
+517874800-X,766,Swati,h,0
+000217536-3,767,German,h,0
+368613183-8,768,Tajik,h,0
+883276912-3,769,Tajik,h,1
+212782173-4,770,Japanese,s,0
+412311960-3,771,Polish,h,0
+020869993-7,772,HaitianCreole,s,0
+284577813-9,773,Luxembourgish,s,0
+010865008-1,774,Korean,h,0
+855480365-5,775,Romanian,s,0
+889742693-X,776,Swahili,s,0
+956854513-1,777,Quechua,h,0
+131527446-9,778,Dzongkha,s,1
+208923060-6,779,Ndebele,s,1
+832268011-2,780,Persian,s,0
+150311146-6,781,Italian,s,0
+762651710-5,782,Albanian,s,0
+182507704-5,783,Greek,s,0
+434447153-9,784,Icelandic,h,1
+405974948-6,785,Afrikaans,h,1
+488623214-0,786,Tetum,s,0
+824725404-2,787,Dzongkha,s,1
+521907573-X,788,Papiamento,s,0
+666464656-0,789,Japanese,s,0
+892990487-4,790,Papiamento,s,1
+959136365-6,791,English,h,0
+909586914-8,792,Marathi,h,0
+642671496-8,793,Nepali,s,0
+545072991-X,794,Kazakh,h,1
+568201516-9,795,TokPisin,h,1
+958973491-X,796,NewZealand,h,1
+824167161-X,797,Kyrgyz,h,1
+184222011-X,798,Bislama,s,1
+788694247-7,799,Maltese,h,0
+043950202-0,800,Dari,h,1
+940452298-8,801,Punjabi,s,1
+431240222-1,802,Malagasy,s,1
+032347181-1,803,Marathi,s,0
+572075776-7,804,Tswana,h,1
+274713733-3,805,Tamil,h,0
+628656271-0,806,Indonesian,s,0
+574420419-9,807,Lithuanian,s,0
+224058306-1,808,Macedonian,s,0
+635051588-9,809,Kannada,s,0
+156762705-6,810,Azeri,s,0
+943498262-6,811,Norwegian,s,0
+537377662-9,812,Marathi,h,1
+594125188-2,813,Swati,h,0
+712677386-2,814,Catalan,h,0
+246592973-9,815,Dari,s,0
+151202836-3,816,Kurdish,s,0
+218483175-1,817,TokPisin,h,0
+258376554-X,818,Kazakh,s,1
+498216829-6,819,Punjabi,h,0
+963411061-4,820,Amharic,s,0
+336208545-8,821,Finnish,s,0
+315576706-5,822,NorthernSotho,s,1
+198239903-1,823,Dzongkha,h,1
+944030541-X,824,German,h,0
+046509489-9,825,Luxembourgish,s,1
+825907738-8,826,Czech,h,0
+664121062-6,827,Korean,h,0
+814151892-5,828,Bosnian,s,1
+392224942-6,829,Swati,s,0
+420668884-2,830,Malay,s,0
+242731841-8,831,Marathi,h,1
+361941918-3,832,Tamil,h,0
+601004409-X,833,Tetum,s,0
+142246965-4,834,Kannada,s,1
+952271218-3,835,Aymara,s,1
+938155797-7,836,Tajik,s,1
+869025416-1,837,Finnish,h,1
+615329396-4,838,Icelandic,h,0
+145957633-0,839,Polish,h,0
+367387286-9,840,HiriMotu,s,0
+649545811-8,841,Lao,h,1
+831842250-3,842,NewZealand,h,1
+946437782-8,843,Ndebele,h,1
+537390349-3,844,Sotho,h,1
+903159592-6,845,Swedish,h,0
+610965903-7,846,Sotho,s,0
+482891291-6,847,Belarusian,s,0
+784603623-8,848,English,h,1
+625992030-X,849,Burmese,h,0
+753230459-0,850,Mongolian,h,1
+531099081-X,851,Assamese,h,0
+513726808-9,852,Fijian,s,0
+918796883-5,853,Bislama,s,1
+973287925-4,854,Dhivehi,s,1
+438876260-1,855,Khmer,h,1
+765513662-9,856,Ndebele,h,0
+453845310-2,857,Tetum,s,0
+834731528-0,858,Lao,h,1
+216238283-0,859,Bislama,h,0
+197951483-6,860,Italian,h,0
+748154009-8,861,Fijian,h,1
+898014045-2,862,Norwegian,s,0
+206689428-1,863,Chinese,h,0
+561888540-9,864,Korean,h,1
+756233749-7,865,Spanish,s,0
+485030726-4,866,TokPisin,h,0
+686557092-8,867,Lao,s,1
+385376882-2,868,French,h,0
+476790463-3,869,Fijian,s,0
+398749521-9,870,Lao,h,0
+914381976-1,871,Swati,s,0
+507295462-5,872,Estonian,s,0
+146598937-4,873,Zulu,h,0
+562343219-0,874,Guaraní,h,0
+033109173-9,875,Somali,s,1
+167852197-3,876,Indonesian,s,0
+641401146-0,877,HaitianCreole,h,0
+472228402-4,878,Croatian,h,0
+361920210-9,879,Arabic,s,0
+221770737-X,880,Lithuanian,s,0
+275581440-3,881,Macedonian,s,1
+661649623-6,882,HiriMotu,s,1
+692160087-4,883,Kazakh,h,1
+592957206-2,884,WestFrisian,h,0
+650679306-6,885,Fijian,s,0
+046515600-2,886,French,s,1
+157974563-6,887,Malay,h,0
+548243689-6,888,Albanian,s,1
+892906465-5,889,French,s,0
+873499970-1,890,Norwegian,h,1
+435617038-5,891,Hungarian,h,1
+448981134-9,892,Afrikaans,s,1
+193543938-3,893,English,h,0
+540199029-4,894,Dari,h,1
+710972136-1,895,Kashmiri,h,0
+445981013-1,896,Montenegrin,s,1
+508092927-8,897,HiriMotu,s,0
+720001298-X,898,HiriMotu,h,0
+950640336-8,899,Japanese,s,0
+440671065-5,900,Georgian,s,1
+919288589-6,901,Estonian,s,1
+630272281-0,902,German,h,0
+480259436-4,903,Lao,s,1
+647622397-6,904,Belarusian,h,0
+950221663-6,905,TokPisin,h,0
+325921911-0,906,NewZealand,h,1
+176166622-3,907,Danish,s,1
+833375013-3,908,Bislama,s,0
+297979574-7,909,Somali,h,1
+767258906-7,910,Catalan,h,1
+434579865-5,911,WestFrisian,h,1
+763442751-9,912,Sotho,s,0
+668716151-2,913,HiriMotu,s,0
+251454768-7,914,Kurdish,h,1
+184235300-4,915,Guaraní,h,1
+468519562-0,916,Lithuanian,h,1
+698060891-6,917,Icelandic,s,1
+997420932-3,918,Swahili,s,1
+975505192-9,919,Danish,s,1
+935611749-7,920,German,h,0
+667360439-5,921,Quechua,h,0
+642051387-1,922,Pashto,h,1
+589017750-8,923,Lithuanian,s,1
+445466228-2,924,Sotho,s,1
+827442324-0,925,Hebrew,s,0
+968446257-3,926,German,h,0
+907186600-9,927,Bosnian,s,0
+224020626-8,928,Tamil,s,0
+960811359-8,929,Aymara,s,0
+930551598-3,930,Aymara,h,1
+587141415-X,931,Malagasy,s,1
+859644889-6,932,Armenian,h,1
+206289044-3,933,Czech,h,1
+366380172-1,934,Malagasy,s,0
+830019263-8,935,Tsonga,s,0
+637575838-6,936,NewZealand,h,0
+143363571-2,937,Croatian,s,0
+181390055-8,938,Icelandic,s,1
+580066349-1,939,Malayalam,h,0
+228506408-X,940,Finnish,s,1
+917615485-8,941,Albanian,s,1
+441885039-2,942,Tswana,h,1
+343735221-0,943,Yiddish,h,0
+718185280-9,944,Fijian,s,0
+923495096-8,945,Marathi,s,0
+416663467-4,946,Yiddish,h,0
+585281290-0,947,Gagauz,h,0
+579258543-1,948,Polish,h,0
+050099841-8,949,Telugu,s,0
+894381016-4,950,Zulu,s,1
+266881567-3,951,Lao,s,1
+962079674-8,952,Hebrew,h,1
+240877457-8,953,Persian,h,1
+084341630-0,954,Thai,s,1
+152123774-3,955,Belarusian,h,1
+373479360-2,956,Bosnian,s,0
+697569934-8,957,Zulu,h,1
+734475395-2,958,Dari,s,1
+472972031-8,959,Dutch,s,0
+241777395-3,960,Fijian,h,1
+993810974-8,961,Kazakh,s,0
+837623803-5,962,Lithuanian,h,1
+479561357-5,963,WestFrisian,s,1
+470823592-5,964,Luxembourgish,s,0
+162500405-2,965,WestFrisian,s,1
+163481018-X,966,Burmese,h,0
+808564716-8,967,HiriMotu,s,0
+105458311-0,968,Hebrew,s,1
+593400373-9,969,Azeri,h,0
+744600558-0,970,Kurdish,s,0
+273110067-2,971,Tsonga,h,0
+022111980-9,972,Moldovan,h,0
+070110670-0,973,Quechua,h,1
+203648925-7,974,Papiamento,h,1
+289213786-1,975,Hebrew,s,0
+623016234-2,976,Georgian,h,1
+236528222-9,977,Japanese,h,0
+203902357-7,978,Dari,h,1
+642011322-9,979,Marathi,h,1
+453024479-2,980,Papiamento,s,0
+542162278-9,981,Latvian,h,0
+596755049-6,982,Georgian,s,0
+652947920-1,983,German,s,0
+542905812-2,984,Tamil,s,0
+486710766-2,985,Tetum,h,0
+259982613-6,986,HiriMotu,s,0
+384484100-8,987,Tswana,s,0
+765801843-0,988,Malay,s,1
+857976063-1,989,Fijian,h,1
+473574844-X,990,Oriya,h,0
+533443341-4,991,Japanese,s,1
+888758490-7,992,Estonian,h,0
+990991214-7,993,Portuguese,h,0
+494058926-9,994,WestFrisian,h,0
+138642750-0,995,Belarusian,h,0
+708037849-4,996,Ndebele,h,1
+032289494-8,997,TokPisin,h,0
+901931025-9,998,Guaraní,h,0
+260370922-4,999,Maltese,h,1
+938627434-5,1000,Spanish,s,0
