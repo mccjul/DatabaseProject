@@ -6,8 +6,7 @@ FROM Member.Adult inner join Member.Member ON
 Member.Adult.MemberID = Member.Member.MemberID
 ;
 go
---2
-
+/*2. Write and execute a query on the title, item, and copy tables that returns the isbn, copy_no, on_loan, title, translation, and cover, and values for rows in the copy table with an ISBN of 1 (one), 500 (five hundred), or 1000 (thousand). Order the result by isbn column.*/
 INSERT INTO Item.Copy (ISBN, CopyNo, isLoaned)
 VALUES
 ('879368921-7',1,1),
@@ -30,7 +29,7 @@ ORDER BY Item.ISBN ASC
 ;
 go
 
---3.
+/*3. Write and execute a query to retrieve the member’s full name and member_no from the member table and the isbn and log_date values from the reservation table for members 250, 341, 1675. Order the results by member_no. You should show information for these members, even if they have no books or reserve.*/
 SELECT Member.FirstName, Member.LastName, Member.MemberID, Reservation.ISBN, Activity.Reservation.ReservedDate
 FROM Member.Member 
 LEFT OUTER JOIN Activity.Reservation ON Member.MemberID = Reservation.MemberID
@@ -52,14 +51,6 @@ INNER JOIN Member.Adult ON Member.MemberID = Adult.MemberID
 ;
 go
 
-
-CREATE VIEW  adultwideView 
-AS
-SELECT Member.FirstName, Member.LastName, Member.MiddleInitial,  Adult.Address, Adult.Street, Adult.City, Adult.State, Adult.Zip
-FROM Member.Member
-INNER JOIN Member.Adult ON Member.MemberID = Adult.MemberID
-;
-go
 
 
 
@@ -109,17 +100,20 @@ WHERE CopywideView.isLoaned = 0
 GO
 
 
+
 /*9. Create a view and save it as OnloanView that queries the loan, title, and member tables. Lists the member, title, and loan information of a copy that is currently on loan.*/
 
-INSERT INTO Activity.Loan (CopyNo,ISBN,MemberID, DueDate, CheckedOutDate)
+INSERT INTO Activity.Loan (CopyNo,ISBN,MemberID, CheckedOutDate, DueDate)
 VALUES
-(1,'879368921-7',1,'20171109 10:34:09 AM','20171026 10:34:09 AM'),
-(2,'879368921-7',1,'20171209 10:34:09 AM','20171125 10:34:09 AM'),
-(1,'712180393-3',1,'20171209 10:34:09 AM','20171125 10:34:09 AM'),
-(2,'712180393-3',2,'20171210 10:34:09 AM','20171126 10:34:09 AM'),
-(2,'455631415-1',2,'20171210 10:34:09 AM','20171126 10:34:09 AM')
+(1,'879368921-7',1,'20171026 10:34:09 AM','20171109 10:34:09 AM'),
+(2,'879368921-7',1,'20171125 10:34:09 AM','20171209 10:34:09 AM'),
+(1,'712180393-3',1,'20171125 10:34:09 AM','20171209 10:34:09 AM'),
+(2,'712180393-3',2,'20171126 10:34:09 AM','20171210 10:34:09 AM'),
+(2,'455631415-1',2,'20171126 10:34:09 AM','20171210 10:34:09 AM')
 ;
 go
+
+
 
 CREATE VIEW OnloanView
 AS 
