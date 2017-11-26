@@ -71,7 +71,7 @@ create table Item.Item
 	TitleID int not null,
 	Translation varchar(20) not null,
 	Cover char(1) not null,
-	Loanable Boolean not null,
+	Loanable Bit not null,
 	constraint pk_Item primary key clustered(ISBN asc),
 	constraint fk_ItemTitle foreign key(TitleID) references Item.Title(TitleID)
 )
@@ -82,39 +82,45 @@ create table Item.Copy
 (
 	ISBN varchar(13) not null,
 	CopyNo int not null,
-	IsLoaned boolean not null,
+	IsLoaned bit not null,
 )
 ;
 go
 -- Create Member table
+    -- changed VARBINARY(MAX)
 create table Member.Member
 (
 	MemberID int identity(1,1) not null,
 	LastName varchar(20) not null,
 	FirstName varchar(20) not null,
 	MiddleInitial varchar(1) not null,
-	Photograph varbinary(MAX) not null,
+	Photograph varchar(MAX) not null,
 )
 ;
 Go
--- Create Adult table
+
+-- Create Adult table 
+			---quotemarks problem
 create table Member.Adult
 (
 	MemberID int unique not null,
 	Address varchar(6) not null,
 	Street varchar(60) not null,
 	City varchar(20) not null,
-	State char(2) not null default ‘WA’,
-	Zip char(5) not null check (Zip like ‘[0-9]+’),
-	PhoneNumber varchar(10) not null check (PhoneNumber like ‘[0-9]+’),
+	State char(2) not null default 'WA',
+	Zip char(5) not null check (Zip like '[0-9]+'),
+	PhoneNumber varchar(10) not null check (PhoneNumber like '[0-9]+'),
 	ExpirationDate date not null
 )
 ;
 Go
--- Create Juvenile table
+-- Create Juvenile table  
+			--added first and last name 
 create table Member.Juvenile
 (
 	MemberID int unique not null,
+	JuvenileFirstName varchar(20) not null,
+	JuvenileLastName varchar(20) not null,
 	AdultMemberID int not null,
 	BirthDate Date not null
 )

@@ -28,13 +28,13 @@ go
 
 -- Add Adult table Primary Key
 alter table Member.Adult
-	add constraint pk_MemberID primary key clustered (MemberID asc)
+	add constraint pk_MemberIDAdult primary key clustered (MemberID asc)
 ;
 go
 
 -- Add Juvenile table Primary Key
 alter table Member.Juvenile
-	add constraint pk_MemberID primary key clustered (MemberID asc)
+	add constraint pk_MemberIDJuvenile primary key clustered (MemberID asc)
 ;
 go
 
