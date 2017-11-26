@@ -17,22 +17,30 @@ go
 SELECT 
 FROM Title INNER JOIN (Item INNER JOIN Copy ON Item.ISBN = Copy.ISBN) ON Title.TitleID = Item.TitleID; */
 
-SELECT Item.ISBN, Copy.CopyNo, Copy.isLoaned, Title.Title, Item.Translation, Item.Cover FROM Title INNER JOIN (Item INNER JOIN Copy ON Item.ISBN = Copy.ISBN) ON Title.TitleID = Item.TitleID
-WHERE Item.Item.ISBN = 1 OR Item.Item.ISBN = 500 OR Item.Item.ISBN = 1000
-ORDER BY ISBN ASC;
+SELECT Item.ISBN, Copy.CopyNo, Copy.isLoaned, Title.Title, Item.Translation, Item.Cover 
+FROM Item.Title INNER JOIN (Item.Item INNER JOIN Item.Copy ON Item.ISBN = Copy.ISBN) ON Title.TitleID = Item.TitleID
+WHERE Item.ISBN = 1 OR Item.ISBN = 500 OR Item.ISBN = 1000 --change ISBN to what we have
+ORDER BY Item.ISBN ASC
+;
+go
 
 /*3. Write and execute a query to retrieve the member’s full name and member_no from the member table and the isbn and log_date values from the reservation table for members 250, 341, 1675. Order the results by member_no. You should show information for these members, even if they have no books or reserve.*/
 
 SELECT Member.FirstName, Member.LastName, Member.MemberID, Reservation.ISBN, Reservation.reservationDate
 FROM Member.Member LEFT OUTER JOIN Activity.Reservation ON Member.MemberID = Reservation.MemberID
-WHERE MemberID = 250 OR MemberID = 341 OR MemberID = 1675
-ORDER BY MemberID ASC;
+WHERE Member.MemberID = 250 OR Member.MemberID = 341 OR Member.MemberID = 1675
+ORDER BY Member.MemberID ASC
+;
+go
 
 /*4. Create a view and save it as adultwideView that queries the member and adult tables. Lists the name & address for all adults.*/
 
-CREATE VIEW “adultwideView” AS SELECT Member.FirstName, Member.LastName, Member.MiddleInitial,  Adult.Address, Adult.Street, Adult.City, Adult.State, Adult.Zip
+CREATE VIEW “adultwideView” 
+AS 
+SELECT Member.FirstName, Member.LastName, Member.MiddleInitial,  Adult.Address, Adult.Street, Adult.City, Adult.State, Adult.Zip
 FROM Member.Member
 INNER JOIN Member.Adult ON Member.MemberID = Adult.MemberID
+;
  
 
 /*5. Create a view and save it as ChildwideView that queries the member, adult, and juvenile tables. Lists the name & address for the juveniles.*/
