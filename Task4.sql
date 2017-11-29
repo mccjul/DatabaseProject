@@ -48,17 +48,12 @@ go
 /* 4. What percentage of the books was loaned out at least once last year?  */
 SELECT COUNT(*) * 100.0 / (SELECT COUNT(*) FROM Item.Copy)
 FROM Item.Copy
-INNER JOIN Activity.Loan ON Loan.CopyNo = Copy.CopyNo
+INNER JOIN Activity.Loan ON Loan.CopyNo = Copy.CopyNo AND Loan.ISBN = Copy.ISBN
 WHERE dbo.fnIsLastYear(Loan.CheckedOutDate) = 1
 ;
 go
 
-SELECT distinct Loan.ISBN
-FROM Item.Copy
-INNER JOIN Activity.Loan ON Loan.CopyNo = Copy.CopyNo AND Loan.ISBN = Copy.ISBN
-WHERE dbo.fnIsLastYear(Loan.CheckedOutDate) = 0
-;
-go
+
 
 
 /* 5. What percentage of all loans eventually becomes overdue? 
@@ -92,15 +87,6 @@ go
 
 
 /* 7. What are the library peak hours for loans? */
-
-SELECT * 
-FROM 
-(SELECT datepart(hour, Loan.CheckedOutDate), COUNT(*) AS count 
-FROM Activity.Loan 
-GROUP BY datepart(hour, Loan.CheckedOutDate)
-;
-go
-
 SELECT distinct datepart(hour, Loan.CheckedOutDate) as [Peak Hours] , count(*) as [Count]
 FROM Activity.Loan 
 GROUP BY datepart(hour, Loan.CheckedOutDate)
@@ -110,7 +96,6 @@ go
 
 
 
-/* TRIGGER WHEN NEW LOAN ADDED */
 /* TRIGGER WHEN NEW LOAN ADDED */
 CREATE TRIGGER trLoanReturned
 ON Activity.Loan
